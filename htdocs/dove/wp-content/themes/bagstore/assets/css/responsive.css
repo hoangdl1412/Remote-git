@@ -1,0 +1,494 @@
+@media only screen and (max-width: 1239px){
+	
+}
+@media only screen and (max-width: 1199px){
+    #testimonial2 .vela-sb-testimonial .active .test-content .content {
+        width: 800px;
+        padding: 79px 67px 62px 404px;
+        transform: translateX(calc(-25% - 5px));
+    }
+    #testimonial2 .vela-sb-testimonial {
+        margin: 0 auto 120px 80px;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-dots {
+        top: 100%;
+        transform: translateX(4%);
+    }
+    .blog1 .vela-sb-blogs .post-thumbnail{
+        width: 100%;
+        max-width: 100%;
+    }
+    .blog1 .vela-sb-blogs .content-meta{
+        display: inline-block;
+        padding: 20px 0px 0px 0px !important;
+    }
+}
+@media only screen and (max-width: 1080px){
+    .vela-breadcrumb .container{
+        padding: 0;
+    }
+    div.product .summary .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse .feedback{
+        display: none;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-stage-outer {
+        height: 500px !important;
+    }
+    #testimonial2 .vela-sb-testimonial .active .test-content .content {
+        width: 750px;
+        transform: translateX(calc(-50% + 164px));
+        padding: 79px 67px 60px 404px;
+    }
+    #testimonial2 .vela-sb-testimonial {
+        margin: 0 auto 0 111px;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-dots {
+        top: 77%;
+        transform: translateX(3%);
+    }
+    #testimonial2 .vela-sb-testimonial .active.center .test-content .image {
+        margin-top: 170px;
+    }
+    #testimonial2 .test-content .image {
+        margin: 195px auto 0 auto;
+    }
+}
+@media only screen and (max-width: 1023px){
+    #mega_main_menu.responsive-enable.mobile_minimized-enable > .menu_holder > .menu_inner > .nav_logo .mobile_toggle{
+        float: none;
+        text-align: -webkit-center;
+    }
+}
+@media only screen and (max-width: 991px){
+    .woocommerce .products.list .product .product-wrapper .product-meta {
+        width: 50%;
+    }
+    #testimonial2 .vela-sb-testimonial .active .test-content .content {
+        width: 650px;
+        transform: translateX(calc(-50% + 124px));
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-stage-outer {
+        height: 600px !important;
+    }
+    #testimonial2 .vela-sb-testimonial {
+        margin: 0 0 0 42px;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-dots {
+        top: 80%;
+        transform: translateX(5%);
+    }
+    #testimonial2 .vela-sb-testimonial .active.center .test-content .image {
+        margin-top: 228px;
+    }
+    #testimonial2 .test-content .image {
+        margin: 243px auto 0 auto;
+    }
+    .wpcf7 p {
+        width: 100%;
+    }
+    .bannerfree .wpb_column{
+        width: 100%;
+    }
+    .bannerfree .wpb_column .wpb_content_element{
+        margin-bottom:0;
+    }
+    .bannerfree .buttonfree{
+        margin-top: 5px !important;
+    }
+    .vela-sb-language:before,
+.header-currency:before{
+    display: none;
+}
+.buttonfree{
+    text-align: left;
+}
+.header_center{
+        position: relative;
+        text-align: center;
+width: 100%;
+display: inline-block;
+width: 100%;
+margin:0;
+left: auto;
+padding: 0;
+    }
+    .nav-left{
+        display: none;
+    }
+     .nav-right{
+        width: 100%;
+        text-align: center;
+        padding:0;
+    }
+}
+@media only screen and (max-width: 768px){
+    .woocommerce-page .woocommerce-ordering .orderby-title{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1199px){
+    .blog1  .vela-blogs article .post-thumbnail{
+        width: 100%;
+        max-width: 100%;
+    }
+   .blog1 .vela-blogs article .content-meta{
+        padding: 30px 0px 0px 0px !important;
+        max-width: 100%;
+    }
+}
+@media only screen and (max-width: 767px){
+    .vela-sb-testimonial,
+    .details-img ul.details_thumbnails,
+    .details-img >.thumbnails .owl-carousel .owl-stage-outer,
+    .woocommerce #content div.product div.thumbnails a,
+    .woocommerce div.product div.thumbnails a,
+    .woocommerce-page #content div.product div.thumbnails a,
+    .woocommerce-page div.product div.thumbnails a,
+    .pp_woocommerce div.product div.images-slider-wrapper,
+    .woocommerce .pp_woocommerce div.product div.images-slider-wrapper,
+    .woocommerce-page .pp_woocommerce div.product div.images-slider-wrapper{
+        width: 100%;
+    }
+    .woocommerce #content div.product div.thumbnails .owl-controls,
+    .woocommerce div.product div.thumbnails .owl-controls,
+    .woocommerce-page #content div.product div.thumbnails .owl-controls,
+    .woocommerce-page div.product div.thumbnails .owl-controls,
+    #right-sidebar .widget-title-wrapper:before,
+    #right-sidebar .widget-title:after{
+        display: none;
+    }
+    .vela-sb-testimonial.owl-carousel .owl-stage-outer{
+        overflow: hidden;
+    }
+    footer .social-icons ul,
+    .vela-footer .copy-com{
+        text-align: center;
+    }
+    .widget-title-wrapper {
+    position: relative;
+    }
+    .widget-title-wrapper a.block-control {
+    position: absolute;
+    content: "";
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    line-height: 0;
+    right: 0px;
+    top: 9px;
+    text-align: center;
+    text-indent: 0;
+    z-index: 999;
+    }
+    .widget-title-wrapper a.block-control:before {
+    content: "\f0fe";
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    line-height: 30px;
+    text-indent: 0;
+    }
+    .widget-title-wrapper a.block-control.active:before {
+    content: "\f146";
+    }
+    .woocommerce #content div.product div.details-img,
+    .woocommerce div.product div.details-img,
+    .woocommerce-page #content div.product div.details-img,
+    .woocommerce-page div.product div.details-img,
+    .woocommerce #content div.product div.summary,
+    .woocommerce div.product div.summary,
+    .woocommerce-page #content div.product div.summary,
+    .woocommerce-page div.product div.summary,
+    .pp_woocommerce div.product div.summary,
+    .woocommerce-page .pp_woocommerce div.product div.summary{
+        width: 100%;
+        padding: 0;
+    }
+    .woocommerce #content div.product div.details-img,
+    .woocommerce div.product div.details-img,
+    .woocommerce-page #content div.product div.details-img,
+    .woocommerce-page div.product div.details-img{
+        margin-bottom: 20px;
+    }
+    #testimonial2 .vela-sb-testimonial {
+        margin: 0;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-controls .owl-dots{
+        position: static;
+        transform: none;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+     #testimonial2 .vela-sb-testimonial .active .test-content .content {
+        position: relative;
+        left:0;
+        width: 550px;
+        transform: none;
+        margin: 30px auto;
+        padding: 30px
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-stage-outer {
+        height: 525px !important;
+    }
+    #testimonial2 .vela-sb-testimonial .active.center .test-content .image {
+        margin: 115px auto 0;
+    }
+    #testimonial2 .vela-sb-testimonial .active.center .test-content .name,
+    #testimonial2 .vela-sb-testimonial .active.center .test-content .byline {
+        margin: 0 auto;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-dots {
+        top: 92%;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+    }
+    .single-post .site-main,
+    .blog .site-main,
+    .archive #main-content,
+    .single-product .site-content{
+        width: 100% !important;
+    }
+}
+@media only screen and (max-width: 667px){
+    
+    .woocommerce .product .product-wrapper .product-meta .meta_info a span{
+        font-size: 0;
+    }
+    .grid .product-wrapper .product-meta .meta_info .yith-wcwl-add-to-wishlist a,
+    .grid .vela-meta-widget.product-meta .meta_info .yith-wcwl-add-to-wishlist a{
+        padding: 0 0 0 8px;
+    }
+    .woocommerce .product .product-meta .meta_info .button-add-to-cart a:first-child:before,
+    .vela-meta-widget.product-meta .meta_info .button-add-to-cart a:first-child:before{
+        margin: 0;
+    }
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+/*- 2. PHONE RESPONSIVE -------------------------------------------------------------------------------*/
+@media only screen and (max-width: 767px){
+    
+    
+    .info-desc > span:last-child:before{
+        display: none;
+    }
+    .widget_text .widget-title, .yith-woocompare-widget .widget-title, .widget_product_tag_cloud .widget-title,
+    .vela-product-categories-widget .widget-title, .widget_price_filter .widget-title, .widget_layered_nav .widget-title{
+    padding-top: 12px !important;
+    }
+    .vela-product-categories-widget .widget-title-wrapper::before, .widget_price_filter .widget-title-wrapper::before, .widget_layered_nav .widget-title-wrapper::before{
+        margin-top: 24px;
+        margin-right:10px;
+    }
+    .vela-product-categories-widget{
+        margin-bottom: 17px;
+    }
+    .breadcrumbs-container{
+        padding: 0px 15px;
+    }
+    .woocommerce .products.grid section{
+        width: 50% !important;
+    }
+    #right-sidebar .vela-items-widget .widget-title {
+    padding: 10px 0px 15px 0px !important;
+}
+#right-sidebar .yith-woocompare-widget{
+    margin-bottom: 0;
+}
+#right-sidebar .vela-items-widget .owl-nav .owl-next{
+margin-right: 30px;
+}
+ #right-sidebar .vela-items-widget .owl-nav .owl-prev{
+    margin-right:70px;
+}
+}
+@media only screen and (max-width: 640px){
+    /*Menu*/
+    .vela-search-product,
+    .vela-logo,
+    .header-content .container > div{
+        width: 100%;
+    }
+    .vela-logo{
+        margin: 20px 0 15px;
+    }
+    #mega_main_menu.direction-horizontal > .menu_holder.sticky_container > .mmm_fullwidth_container{
+        background-color: #fff;
+    }
+    #mega_main_menu.primary > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link *{
+        color:#444;
+    }
+    #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-item > .item_link *,
+    .header-v2 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link *{
+        color: #f69e22;
+    }
+    .header-v2 #mega_main_menu.direction-horizontal > .menu_holder.sticky_container > .mmm_fullwidth_container{
+        background-color: transparent;
+    }
+    .header-v2 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link *{
+        color:#fff;
+    }
+    .vela-sb-testimonial.owl-carousel .owl-stage-outer {
+        height: 470px !important;
+    }
+    .header-v2{
+        position: static;
+        background-color: #2b2b2b;
+    }
+    .header-v2 #mega_main_menu.primary > .menu_holder > .menu_inner > .nav_logo > .mobile_toggle > .mobile_button{
+        color: rgba(255,255,255,.6);
+    }
+    .header-v2 .vela-shop-cart .vela-shoppping-cart{
+        text-align: center;
+    }
+    .header-v2 .vela-search-product .vela_search_ajax input[type="text"]{
+        border-bottom: 1px solid #e5e5e5;
+    }
+    .header-v2 .vela_search_ajax input[type="submit"] {
+        display: block;
+    }
+    .woocommerce .before-loop-wrapper{
+        display: block;
+        text-align: center;
+    }
+    .grid_list_nav,
+    .woocommerce .before-loop-wrapper .woocommerce-result-count,
+    .woocommerce-page .before-loop-wrapper .woocommerce-result-count,
+    .woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering{
+        float:none;
+        text-align: center;
+    }
+    .woocommerce .before-loop-wrapper .woocommerce-result-count,
+    .woocommerce-page .before-loop-wrapper .woocommerce-result-count{
+        position: static;
+        transform: none;
+        padding: 0;
+    }
+    #testimonial2 .vela-sb-testimonial .active .test-content .content {
+        width: 570px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .vela-product-category .row-tabs{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    body:not(.fullwidth-template-padding) .vela-product-category .row-content{
+        padding: 0;
+    }
+    .vela-product-category .row-content{
+        width: 100%;
+    }
+    .woocommerce .products.list .product .product-wrapper .product-image,
+    .woocommerce .products.list .product .product-wrapper .product-meta{
+    width: 100%;
+    text-align: center;
+    }
+    .woocommerce .products.list .product .product-wrapper .product-meta{
+        padding: 0;
+    }
+    .woocommerce .products.list .product .product-wrapper .product-meta .product-name{
+        text-align: center;
+        padding-top: 20px;
+    }
+    .woocommerce .products.list .product .product-wrapper .product-meta .price{
+        text-align: center;
+    }
+    .woocommerce .products.list .product .product-wrapper .product-meta:after{
+        display: none;
+    }
+    .woocommerce .products.list .star-rating, .woocommerce-page .products.list .star-rating, .woocommerce-page .products.list .post-554.product-type-grouped.last .star-rating.no-rating{
+            margin: 8px auto 20px;
+    }
+    .woocommerce .products.list .product .product-wrapper .product-meta .meta_info{
+        display: inline-block !important;
+        text-align: center;
+    }
+    .woocommerce .products.grid section{
+        width: 100% !important;
+    }
+    .woocommerce .products.list .product .product-wrapper .product-meta .button-in.quickshop{
+        margin-right: 0;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-stage-outer {
+        height: 555px !important;
+    }
+    #testimonial2 .vela-sb-testimonial .active .test-content .content {
+        width: 450px;
+    }
+}
+@media only screen and (max-width: 550px){
+     #testimonial2 .vela-sb-testimonial .active .test-content .content {
+        width: 400px;
+    }
+}
+@media only screen and (max-width: 480px){
+   
+    .vela-sb-testimonial.owl-carousel .owl-stage-outer {
+        height: 521px !important;
+    }
+    #testimonial2 .vela-sb-testimonial.owl-carousel .owl-stage-outer {
+        height: 690px !important;
+    }
+    #testimonial2 .vela-sb-testimonial .active .test-content .content{
+        width: 240px;
+    }
+    #testimonial2 .vela-sb-testimonial .active.center .test-content .image {
+        margin: 85px auto 0;
+    }
+}
+@media only screen and (max-width: 420px){
+    #vela_search_drop{
+        left: 26px !important;
+            width: 250px !important;
+    }
+    .product-wrapper .conditions-box{
+        display: none;
+    }
+    div.product .social-sharing li{
+        margin-bottom: 3px;
+    }
+}
+@media only screen and (max-width: 384px){
+    body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list:before,
+    body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list:after,
+    body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tabs-container:before{
+        display: none;
+    }
+    .woocommerce.columns-4 .products .product .product-wrapper .product-image .compare {
+        margin-right: 0;
+    }
+}
+@media only screen and (max-width: 359px){
+    .woocommerce div.product .woocommerce-tabs ul.tabs li{
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width: 400px){
+    body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tab{
+        display: block;
+    }
+    body.wpb-js-composer .vc_general.vc_tta-tabs.default_no_border .vc_tta-tabs-container .vc_tta-tab:before,
+    body.wpb-js-composer .vc_general.vc_tta-tabs.default_no_border .vc_tta-tabs-container .vc_tta-tab.vc_active:before,
+    body.wpb-js-composer .vc_general.vc_tta-tabs.default .vc_tta-tabs-container .vc_tta-tab:before,
+    body.wpb-js-composer .vc_general.vc_tta-tabs.default .vc_tta-tabs-container .vc_tta-tab.vc_active:before{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+     .woocommerce .product .product-wrapper .product-meta .meta_info a span{
+        font-size: 0;
+    }
+    .product-wrapper .product-meta .meta_info .yith-wcwl-add-to-wishlist a,
+    .vela-meta-widget.product-meta .meta_info .yith-wcwl-add-to-wishlist a{
+        padding: 0 0 0 8px;
+    }
+    .woocommerce .product .product-meta .meta_info .button-add-to-cart a:first-child:before,
+    .vela-meta-widget.product-meta .meta_info .button-add-to-cart a:first-child:before{
+        margin: 0;
+    }
+    .products.list .product-short-meta.list{
+        margin-top: 4px;
+    }
+    
+}

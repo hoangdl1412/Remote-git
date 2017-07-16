@@ -1,0 +1,372 @@
+	
+	
+	/*
+	1. FONT FAMILY
+	2. GENERAL COLORS
+	*/
+	
+	
+	/* ============= 1. FONT FAMILY ============== */
+		
+        html, 
+	body,
+        .widget-title.heading-title,.newletter_sub_input .button.button-secondary,
+        #mega_main_menu.primary ul li .mega_dropdown > li.sub-style > .item_link .link_text
+	{
+		font-family: Roboto Condensed;
+	}
+	#mega_main_menu.primary ul li .mega_dropdown > li.sub-style > ul.mega_dropdown,
+        #mega_main_menu li.multicolumn_dropdown > .mega_dropdown > li .mega_dropdown > li,
+        #mega_main_menu.primary ul li .mega_dropdown > li > .item_link .link_text,
+        .info-open,
+        .info-phone,
+        .my-account-wrapper .account-control > a,
+        .my-account-wrapper,
+        .my-wishlist-wrapper *,
+        .dropdown-button span > span,
+        body p,
+        .wishlist-empty,
+        div.product .social-sharing li a,
+        .vela-search-by-category form,
+        .shopping-cart-wrapper,
+        .product-label,
+        .meta-wrapper .heading-title,
+        .meta-wrapper .price,
+        .testimonial-content .content,
+        .testimonial-content .byline,
+        .widget-container ul.product-categories ul.children li a,
+        .widget-container:not(.vela-product-categories-widget):not(.widget_product_categories):not(.vela-products-widget) :not(.widget-title),
+        .vela-products-category-tabs-block ul.tabs li span.title,
+        .woocommerce-pagination,
+        .woocommerce-result-count,
+        .woocommerce .products.list .product h3.product-name > a,
+        .woocommerce-page .products.list .product h3.product-name > a,
+        .woocommerce .products.list .product .price .amount,
+        .woocommerce-page .products.list .product .price .amount,
+        .products.list .short-description.list,
+        div.product .single_variation_wrap .amount,
+        div.product div[itemprop="offers"] .price .amount,
+        .orderby-title,
+        .blogs .excerpt,
+        .blog .entry-info .entry-summary .short-content,
+        .single-post .entry-info .entry-summary .short-content,
+        .single-post article .entry-content .info-category,
+        .single-post article .entry-content .info-category,
+        #comments .comments-title,
+        #comments .comment-metadata a,
+        .post-navigation .nav-previous,
+        .post-navigation .nav-next,
+        .woocommerce div.product .product_title,
+        .woocommerce-review-link,
+        .feature-excerpt,
+        .woocommerce div.product p.stock,
+        .woocommerce div.product .summary div[itemprop="description"],
+        .woocommerce div.product p.price,
+        .woocommerce div.product .woocommerce-tabs .panel,
+        .woocommerce div.product form.cart .group_table td.label,
+        .woocommerce div.product form.cart .group_table td.price,
+        footer,
+        footer a,
+        .blogs article .effect-thumbnail:before,
+        .blogs article a.gallery .owl-item:after
+	{
+		font-family: Roboto Condensed;
+	}
+	body,
+        .site-footer,
+        .woocommerce div.product form.cart .group_table td.label,
+        .woocommerce .product .product-label span,
+        .meta-wrapper .meta_info .button-in.wishlist a, .meta-wrapper .meta_info .button-in.compare a,
+        ul.product_list_widget li > a, h3.product-name > a,
+        h3.product-name, 
+        .single-navigation a .product-detail-nav span,
+        .info-company li i,
+        .social-icons .vela-tooltip:before,
+        .widget-container ul.product-categories ul.children li,
+        .tagcloud a,
+        .product-thumbnails .owl-nav > div:before,
+        div.product .summary .yith-wcwl-add-to-wishlist a:before,
+        .pp_woocommerce div.product .summary .compare:before,
+        .woocommerce div.product .summary .compare:before,
+        .woocommerce-page div.product .summary .compare:before,
+        .woocommerce #content div.product .summary .compare:before,
+        .woocommerce-page #content div.product .summary .compare:before,
+        .woocommerce div.product form.cart .variations label,
+        .woocommerce-page div.product form.cart .variations label,
+        .pp_woocommerce div.product form.cart .variations label,
+        .vela-products-category-tabs-block ul.tabs li span.title,
+        blockquote,
+        .vela-milestone h3.subject,
+        .woocommerce .widget_price_filter .price_slider_amount,
+        .wishlist-empty,
+        .woocommerce div.product form.cart .button,
+        .woocommerce table.wishlist_table
+        {
+                font-size: 13px;
+        }
+	/* ========== 2. GENERAL COLORS ========== */
+        /* ========== Primary color ========== */
+
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li:hover > .item_link *, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-item > .item_link *, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link *, .ftc-tiny-cart-wrapper .cart-number, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link:focus .link_text,
+        #mega_main_menu.primary > .menu_holder.sticky_container > .menu_inner > ul > li.current-menu-item > .item_link *,
+        #mega_main_menu.primary > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link:hover *{
+    color:#fff;
+    }
+
+    .header-content,#mega_main_menu.primary > .menu_holder > .mmm_fullwidth_container,
+    #mega_main_menu.direction-horizontal > .menu_holder.sticky_container > .mmm_fullwidth_container{
+    background-color:#3a3838;
+    }
+
+	.header-currency:hover .wcml_currency_switcher > a,
+        .header-language:hover li .lang_sel_sel,
+        .woocommerce a.remove:hover,
+        .dropdown-container .dropdown-footer > a.button.view-cart:hover,
+        .my-wishlist-wrapper a:hover,
+        .my-account-wrapper .account-control > a:hover,
+        .header-currency .wcml_currency_switcher ul li:hover,
+        .dropdown-button span:hover,
+        body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tab.vc_active > a,
+        body.wpb-js-composer .vc_general.vc_tta-tabs .vc_tta-tab > a:hover,
+        .blogs article h3.heading-title a,
+        
+        #mega_main_menu.primary .mega_dropdown > li > .item_link:hover *,
+        #mega_main_menu.primary .mega_dropdown > li.current-menu-item > .item_link *,
+       
+        .woocommerce .products .product .price,
+        .woocommerce div.product p.price,
+        .woocommerce div.product span.price,
+        .woocommerce .products .star-rating,
+        .woocommerce-page .products .star-rating,
+        .star-rating:before,
+        div.product div[itemprop="offers"] .price .amount,
+        div.product .single_variation_wrap .amount,
+        .pp_woocommerce .star-rating:before,
+        .woocommerce .star-rating:before,
+        .woocommerce-page .star-rating:before,
+        .woocommerce-product-rating .star-rating span,
+        ins .amount,
+        .vela-wg-meta .price ins,
+        .vela-wg-meta .star-rating,
+        .ul-style.circle li:before,
+        .woocommerce form .form-row .required,
+        .blogs .comment-count i,
+        .blog .comment-count i,
+        .single-post .comment-count i,
+        .single-post article .entry-content .info-category,
+        .single-post article .entry-content .info-category .cat-links a,
+        .single-post article .entry-content .info-category .vcard.author a,
+        .breadcrumb-title .breadcrumbs-container,
+        .breadcrumb-title .breadcrumbs-container span.current,
+        .breadcrumb-title .breadcrumbs-container a:hover,
+        .woocommerce .product .product-wrapper .meta-wrapper .meta_info a:hover,
+        .woocommerce-page .product .product-wrapper .meta-wrapper .meta_info a:hover,
+        .vela-wg-meta.meta-wrapper .meta_info a:hover,
+        .vela-wg-meta.meta-wrapper .meta_info .button-in.wishlist a:hover,
+        .gridlist-toggle a.active,
+        .vela-quickshop-wrapper .owl-nav > div.owl-next:hover,
+        .vela-quickshop-wrapper .owl-nav > div.owl-prev:hover,
+        .shortcode-icon .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-color-orange .vc_icon_element-icon,
+        .comment-reply-link .icon,
+        body table.compare-list tr.remove td > a .remove:hover:before,
+        a:hover,
+        a:focus,
+        .vc_toggle_title h4:hover,
+        .vc_toggle_title h4:before,
+        .blogs article h3.heading-title a:hover,
+        .ftc-tiny-account-wrapper::before, #lang_sel_click > ul > li::before, .header-currency .wcml_currency_switcher::before,
+        #mega_main_menu.primary ul li .mega_dropdown > li.sub-style > .item_link .link_text,
+        .vela-testimonial-wrapper .testimonial-content .name a {
+                color: #15bd9c;
+        }
+        .dropdown-container .dropdown-footer > a.button.checkout:hover,
+        .woocommerce .widget_price_filter .price_slider_amount .button:hover,
+        .woocommerce-page .widget_price_filter .price_slider_amount .button:hover,
+        body input.wpcf7-submit:hover,
+        .woocommerce .product .thumbnail-wrapper .product-group-button > div a:hover,
+        .woocommerce .products.list .product .product-wrapper .meta-wrapper .button-in a:not(.quickshop):hover,
+        .woocommerce .products.list .product .product-wrapper .meta-wrapper .button-in.quickshop i:hover,
+        .counter-wrapper > div,
+        .tp-bullets .tp-bullet:after,
+        .woocommerce .product .product-label .onsale,
+        .woocommerce #respond input#submit:hover, 
+        .woocommerce a.button:hover,
+        .woocommerce button.button:hover, 
+        .woocommerce input.button:hover,
+        .woocommerce .products .product .product-wrapper .thumbnail-wrapper .button-in:hover a:hover,
+        .vc_color-orange.vc_message_box-solid,
+        .woocommerce nav.woocommerce-pagination ul li span.current,
+        .woocommerce-page nav.woocommerce-pagination ul li span.current,
+        .woocommerce nav.woocommerce-pagination ul li a.next:hover,
+        .woocommerce-page nav.woocommerce-pagination ul li a.next:hover,
+        .woocommerce nav.woocommerce-pagination ul li a.prev:hover,
+        .woocommerce-page nav.woocommerce-pagination ul li a.prev:hover,
+        .woocommerce nav.woocommerce-pagination ul li a:hover,
+        .woocommerce-page nav.woocommerce-pagination ul li a:hover,
+        .woocommerce .form-row input.button:hover,
+        .load-more-wrapper .button:hover,
+        body .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab:hover,
+        body .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab.vc_active,
+        .woocommerce div.product form.cart .button:hover,
+        .woocommerce div.product div.summary p.cart a:hover,
+        div.product .summary .yith-wcwl-add-to-wishlist a:hover,
+        .woocommerce #content div.product .summary .compare:hover,
+        div.product .social-sharing li a:hover,
+        .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+        .tagcloud a:hover,
+        .woocommerce .wc-proceed-to-checkout a.button.alt:hover,
+        .woocommerce .wc-proceed-to-checkout a.button:hover,
+        .woocommerce-cart table.cart input.button:hover,
+        .owl-dots > .owl-dot span:hover,
+        .owl-dots > .owl-dot.active span,
+        footer .style-3 .newletter_sub .button.button-secondary.transparent,
+        .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel .vc_tta-panel-title > a:hover,
+        body div.pp_details a.pp_close:hover:before,
+        .vc_toggle_title h4:after,
+        body.error404 .page-header a,
+        body .button.button-secondary,
+        .pp_woocommerce div.product form.cart .button,
+        .shortcode-icon .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-background-color-orange.vc_icon_element-background,
+        .style1 .vela-countdown .counter-wrapper > div,
+        .style2 .vela-countdown .counter-wrapper > div,
+        .style3 .vela-countdown .counter-wrapper > div,
+        #cboxClose:hover,
+        body > h1,
+        table.compare-list .add-to-cart td a:hover,
+        .vc_progress_bar.wpb_content_element > .vc_general.vc_single_bar > .vc_bar,
+        div.product.vertical-thumbnail .images-thumbnails .owl-controls div.owl-prev:hover,
+        div.product.vertical-thumbnail .images-thumbnails .owl-controls div.owl-next:hover,
+        ul > .page-numbers.current,
+        ul > .page-numbers:hover,
+        article a.button-readmore:hover,
+        .shopping-cart-wrapper .cart-number,
+        .owl-nav > div:hover,
+        .tp-rightarrow,.tp-leftarrow
+        {
+                background-color: #15bd9c;
+        }
+
+        .vela-search-by-category form:hover  input[type="submit"]{
+        background-color: #15bd9c !important;
+        }
+
+	.dropdown-container .dropdown-footer > a.button.view-cart:hover,
+        .dropdown-container .dropdown-footer > a.button.checkout:hover,
+        .woocommerce .widget_price_filter .price_slider_amount .button:hover,
+        .woocommerce-page .widget_price_filter .price_slider_amount .button:hover,
+        body input.wpcf7-submit:hover,
+        .counter-wrapper > div,
+        .woocommerce .products .product:hover .product-wrapper,
+        .woocommerce-page .products .product:hover .product-wrapper,
+        #right-sidebar .product_list_widget:hover li,
+        .woocommerce .product .product-wrapper .meta-wrapper .meta_info a:hover,
+        .woocommerce-page .product .product-wrapper .meta-wrapper .meta_info a:hover,
+        .vela-wg-meta.meta-wrapper .meta_info a:hover,
+        .vela-wg-meta.meta-wrapper .meta_info .button-in.wishlist a:hover,
+        .woocommerce .products .product:hover .product-wrapper,
+        .woocommerce-page .products .product:hover .product-wrapper,
+        .vela-products-category-tabs-block ul.tabs li:hover,
+        .vela-products-category-tabs-block ul.tabs li.current,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+        body .vc_tta.vc_tta-accordion .vc_tta-panel .vc_tta-panel-title > a:hover,
+         body div.pp_details a.pp_close:hover:before,
+        .wpcf7 p input:focus,
+        .wpcf7 p textarea:focus,
+        .woocommerce form .form-row .input-text:focus,
+        body .button.button-secondary,
+        .vela-quickshop-wrapper .owl-nav > div.owl-next:hover,
+        .vela-quickshop-wrapper .owl-nav > div.owl-prev:hover,
+        #cboxClose:hover,
+        .owl-nav > div:hover
+        {
+                border-color: #15bd9c;
+        }
+        #lang_sel_click ul ul,
+        .header-currency ul,
+        .vela-tiny-account-wrapper .dropdown-container,
+        .shopping-cart-wrapper .dropdown-container,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item,
+        #mega_main_menu > .menu_holder > .menu_inner > ul > li:hover,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link,
+        #mega_main_menu > .menu_holder > .menu_inner > ul > li.current_page_item > a:first-child:after,
+        #mega_main_menu > .menu_holder > .menu_inner > ul > li > a:first-child:hover:before,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link:before,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current_page_item > .item_link:before,
+        #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .mega_dropdown,
+        .woocommerce .product .product-label .onsale:before,
+        .woocommerce .product .product-label .featured:before,
+        .woocommerce .product .product-label .out-of-stock:before
+        {
+                border-top-color: #15bd9c;
+        }
+        .woocommerce .products.list .product:hover .product-wrapper .meta-wrapper:after,
+        .woocommerce-page .products.list .product:hover .product-wrapper .meta-wrapper:after
+        {
+                border-left-color: #15bd9c;
+        }
+        footer#colophon .vela-footer .widget-title:before,
+        .woocommerce div.product .woocommerce-tabs ul.tabs,
+        #customer_login h2 span:before,
+        .cart_totals  h2 span:before
+        {
+                border-color: #15bd9c;
+        }
+        
+        /* ========== Secondary color ========== */
+        body,
+        .vela-tiny-cart-wrapper a.cart-control:hover,
+        
+        .woocommerce a.remove,
+        body.wpb-js-composer .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab,
+        .woocommerce .products .star-rating.no-rating,
+        .woocommerce-page .products .star-rating.no-rating,
+        .star-rating.no-rating:before,
+        .pp_woocommerce .star-rating.no-rating:before,
+        .woocommerce .star-rating.no-rating:before,
+        .woocommerce-page .star-rating.no-rating:before,
+        .woocommerce .product .thumbnail-wrapper .product-group-button > div a,
+        .vc_progress_bar .vc_single_bar .vc_label,
+        .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline,
+        .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline-custom,
+        .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline,
+        .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline-custom,
+        .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline,
+        .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline-custom,
+        .style1 .vela-countdown .counter-wrapper > div .ref-wrapper,
+        .style2 .vela-countdown .counter-wrapper > div .ref-wrapper,
+        .style3 .vela-countdown .counter-wrapper > div .ref-wrapper,
+        .style4 .vela-countdown .counter-wrapper > div .number-wrapper .number,
+        .style4 .vela-countdown .counter-wrapper > div .ref-wrapper,
+        body table.compare-list tr.remove td > a .remove:before,
+        .woocommerce-page .products.list .product h3.product-name a
+        {
+                color: #444444;
+        }
+        .dropdown-container .dropdown-footer > a.button.checkout,
+        .pp_woocommerce div.product form.cart .button:hover,
+        .info-company li i,
+        body .button.button-secondary:hover,
+        div.pp_default .pp_close, body div.pp_woocommerce.pp_pic_holder .pp_close,
+        body div.vela-product-video.pp_pic_holder .pp_close,
+        body .vela-lightbox.pp_pic_holder a.pp_close,
+        #cboxClose
+        {
+                background-color: #444444;
+        }
+        .dropdown-container .dropdown-footer > a.button.checkout,
+        .pp_woocommerce div.product form.cart .button:hover,
+        body .button.button-secondary:hover,
+        #cboxClose
+        {
+                border-color: #444444;
+        }
+        
+        /* ========== Body Background color ========== */
+        body
+        {
+                background-color: #ffffff;
+        }
+	/* Custom CSS */
+	

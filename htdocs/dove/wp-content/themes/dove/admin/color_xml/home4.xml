@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+	<item>
+		<name>ftc_primary_color</name>
+		<value>#d6a386</value>
+	</item>
+	<item>
+		<name>ftc_secondary_color</name>
+		<value>#444444</value>
+	</item>
+	<item>
+		<name>ftc_body_background_color</name>
+		<value>#ffffff</value>
+	</item>
+	<item>
+		<name>ftc_header_content_background_color</name>
+		<value>#ececec</value>
+	</item>
+	<item>
+		<name>ftc_menu_color_hover</name>
+		<value>#d6a386</value>
+	</item>
+	<item>
+		<name>ftc_menu_color_item</name>
+		<value>#000</value>
+	</item>
+</items>

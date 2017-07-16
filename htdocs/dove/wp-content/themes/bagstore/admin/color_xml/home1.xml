@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+	<item>
+		<name>vela_primary_color</name>
+		<value>#f69e22</value>
+	</item>
+	<item>
+		<name>vela_secondary_color</name>
+		<value>#444444</value>
+	</item>
+        <item>
+		<name>vela_body_background_color</name>
+		<value>#ffffff</value>
+	</item>
+	        <item>
+		<name>vela_header_content_background_color</name>
+		<value>#3a3838</value>
+	</item>
+	 <item>
+		<name>vela_menu_color_hover</name>
+		<value>#15bd9c</value>
+	</item>
+	<item>
+		<name>vela_menu_color_item</name>
+		<value>#fff</value>
+	</item>
+</items>

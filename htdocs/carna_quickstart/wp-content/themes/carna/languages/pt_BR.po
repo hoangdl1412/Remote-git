@@ -1,0 +1,3942 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Carna v1.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-09 13:41:33+0000\n"
+"Last-Translator: sacolera <controle@sacolera.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: framework/includes/class-tgm-plugin-activation.php:2240
+#, php-format
+#@ ftc
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/includes/class-tgm-plugin-activation.php:3375
+#, php-format
+#@ ftc
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: framework/includes/class-tgm-plugin-activation.php:3381
+#, php-format
+#@ ftc
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: framework/includes/class-tgm-plugin-activation.php:2505
+#, php-format
+#@ ftc
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#: framework/includes/class-tgm-plugin-activation.php:2496
+#, php-format
+#@ ftc
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: framework/includes/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ ftc
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Atualizar%2$s"
+
+#. translators: %s: title of menu item which is invalid
+#: framework/mega_menu.php:203
+#, php-format
+#@ ftc
+msgid "%s (Invalid)"
+msgstr "%s (Inválido)"
+
+#. translators: %s: title of menu item in draft status
+#: framework/mega_menu.php:207
+#, php-format
+#@ ftc
+msgid "%s (Pending)"
+msgstr "%s (Pendente)"
+
+#: framework/includes/class-tgm-plugin-activation.php:1886
+#, php-format
+#@ ftc
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: woocommerce/content-product_cat.php:44
+#, php-format
+#@ ftc
+msgid "%s Product"
+msgid_plural "%s Products"
+msgstr[0] "%s Produto"
+msgstr[1] "%s Produtos"
+
+#: woocommerce/single-product/rating.php:35
+#, php-format
+#@ ftc
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s Revisão"
+msgstr[1] "%s Revisões"
+
+#: framework/woo_hooks.php:67
+#, php-format
+#@ ftc
+msgid "%s in stock"
+msgstr "%s em estoque"
+
+#: dokan/products/new-product-single.php:403
+#@ ftc
+msgid "(Stock Keeping Unit)"
+msgstr "(Unidade de armazenamento)"
+
+#: framework/woo_hooks.php:60
+#: framework/woo_hooks.php:69
+#@ ftc
+msgid "(can be backordered)"
+msgstr "(pode ser em lista de espera)"
+
+#: dokan/products/new-product-single.php:370
+#@ ftc
+msgid "+ Add more images"
+msgstr "+ Adicione mais imagens"
+
+#: dokan/products/new-product-single.php:244
+#: dokan/products/product-edit.php:304
+#@ ftc
+msgid "- Select a category -"
+msgstr "- Selecione uma categoria -"
+
+#: dokan/products/new-product-single.php:190
+#: dokan/products/new-product-single.php:199
+#@ ftc
+msgid "0.00"
+msgstr "0.00"
+
+#: dokan/products/new-product-single.php:415
+#@ ftc
+msgid "1"
+msgstr "1"
+
+#: 404.php:17
+#, php-format
+#@ ftc
+msgid ""
+"<h1>404</h1><h2>Oops! Page Not Found</h2>\n"
+"\t\t\t\t\t<p>The link you clicked might be corrupted, or the page may have been removed.<br/>\n"
+"\t\t\t\t\tYou can back to <a href=\"%s\">homepage</a> or seach anything.</p>"
+msgstr ""
+"<h1>404</h1><h2>Oops! Página não encontrada</h2>\n"
+"\t\t\t\t\t<p>O link que você clicou pode estar corrompido , ou a página pode ter sido removida .<br/>\n"
+"\t\t\t\t\tVocê pode voltar para <a href=\"%s\">página inicial</a> ou utilize o campo de pesquisa.</p>"
+
+#: framework/vc_extension/vc_map.php:2636
+#: framework/vc_extension/vc_map.php:3319
+#@ ftc
+msgid "A comma separated list of links. Ex: if you have 3 banners, the value of this field should be \"link1, link2, link3\""
+msgstr "Use vírgula para separar link. Ex: se você tem 3 banners, o valor deste campo deve ser \" link1 , link2 , link3 \""
+
+#: framework/vc_extension/vc_map.php:882
+#@ ftc
+msgid "A comma separated list of testimonial ids"
+msgstr "Uma virgula separa a lista de testemunhos ids"
+
+#: framework/widgets/product_filter_by_color.php:180
+#@ ftc
+msgid "AND"
+msgstr "E"
+
+#: dokan/products/product-edit.php:19
+#@ ftc
+msgid "Access Denied"
+msgstr "Acesso negado"
+
+#: dokan/products/new-product-single.php:478
+#@ ftc
+msgid "Action"
+msgstr "Ação"
+
+#: framework/includes/class-tgm-plugin-activation.php:2617
+#@ ftc
+msgid "Activate"
+msgstr "Ativar"
+
+#: framework/vc_extension/vc_map.php:1231
+#@ ftc
+msgid "Activate link"
+msgstr "Ativar link"
+
+#: framework/includes/class-tgm-plugin-activation.php:2220
+#@ ftc
+msgid "Active"
+msgstr "Ativo"
+
+#: framework/vc_extension/vc_map.php:176
+#@ ftc
+msgid "Active Table"
+msgstr "Tabela ativa"
+
+#: framework/vc_extension/vc_map.php:3080
+#@ ftc
+msgid "Active tab"
+msgstr "Aba ativa"
+
+#: dokan/products/new-product-single.php:470
+#@ ftc
+msgid "Add File"
+msgstr "Adicionar arquivo"
+
+#: dokan/products/new-product-single.php:108
+#@ ftc
+msgid "Add New Product"
+msgstr "Adicionar novo produto"
+
+#: framework/vc_extension/vc_map.php:524
+#@ ftc
+msgid "Add an icon before the text. Ex: fa-lock"
+msgstr "Adicionar um ícone antes do texto. Ex: fa-lock"
+
+#: framework/vc_extension/vc_map.php:2612
+#: framework/vc_extension/vc_map.php:3276
+#@ ftc
+msgid "Add this icon before the block title"
+msgstr "Adicione este ícone antes do bloco do título"
+
+#: framework/vc_extension/vc_map.php:1275
+#@ ftc
+msgid "Address"
+msgstr "Endereço"
+
+#: framework/widgets/recent_comments.php:151
+#@ ftc
+msgid "All Posts"
+msgstr "Todas postagens"
+
+#: framework/theme_functions.php:918
+#@ ftc
+msgid "All categories"
+msgstr "Todas categorias"
+
+#: framework/includes/class-tgm-plugin-activation.php:3376
+#@ ftc
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídos."
+
+#: framework/includes/class-tgm-plugin-activation.php:3382
+#@ ftc
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídos."
+
+#: framework/includes/class-tgm-plugin-activation.php:403
+#, php-format
+#@ ftc
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins instalado e ativado com sucesso. %1$s"
+
+#: dokan/products/new-product-single.php:433
+#@ ftc
+msgid "Allow"
+msgstr "Permitir"
+
+#: dokan/products/new-product-single.php:428
+#@ ftc
+msgid "Allow Backorders"
+msgstr "Permitir devolução"
+
+#: dokan/products/new-product-single.php:432
+#@ ftc
+msgid "Allow but notify customer"
+msgstr "Permitir mas notificar comprador"
+
+#: dokan/products/new-product-single.php:439
+#@ ftc
+msgid "Allow only one quantity of this product to be bought in a single order"
+msgstr "Permitir apenas uma unidade deste produto a ser comprado em uma única ordem"
+
+#: framework/includes/class-tgm-plugin-activation.php:3369
+#, php-format
+#@ ftc
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro na instalação %1$s: <strong>%2$s</strong>."
+
+#: woocommerce/cart/cart.php:128
+#@ ftc
+msgid "Apply Coupon"
+msgstr "Aplicar cupom"
+
+#: archive.php:38
+#@ ftc
+msgid "Archives"
+msgstr "Arquivos"
+
+#: framework/theme_functions.php:540
+#@ ftc
+msgid "Articles posted by "
+msgstr "Artigos publicados por"
+
+#: framework/widgets/product_categories.php:172
+#@ ftc
+msgid "Ascending"
+msgstr "ascendente"
+
+#: dokan/products/product-edit.php:170
+#@ ftc
+msgid "Attributes"
+msgstr "Atributos"
+
+#: framework/theme_functions.php:1280
+#@ ftc
+msgid "Author box background"
+msgstr "Autor Caixa de fundo"
+
+#: framework/vc_extension/vc_map.php:389
+#: framework/vc_extension/vc_map.php:971
+#: framework/vc_extension/vc_map.php:1145
+#: framework/vc_extension/vc_map.php:1253
+#: framework/vc_extension/vc_map.php:1393
+#: framework/vc_extension/vc_map.php:2206
+#: framework/vc_extension/vc_map.php:2434
+#: framework/vc_extension/vc_map.php:2559
+#: framework/vc_extension/vc_map.php:2943
+#: framework/vc_extension/vc_map.php:3231
+#: framework/vc_extension/vc_map.php:3549
+#: framework/widgets/blogs.php:392
+#: framework/widgets/products.php:331
+#: framework/widgets/recent_comments.php:212
+#@ ftc
+msgid "Auto play"
+msgstr "Reprodução automática"
+
+#: framework/woo_hooks.php:75
+#: woocommerce/cart/cart.php:69
+#@ ftc
+msgid "Available on backorder"
+msgstr "Disponível em compra pendente"
+
+#: framework/includes/class-tgm-plugin-activation.php:2404
+#@ ftc
+msgid "Available version:"
+msgstr "Versão disponível: "
+
+#: footer.php:40
+#@ ftc
+msgid "Back to Top"
+msgstr "Voltar para o topo"
+
+#: framework/vc_extension/vc_map.php:691
+#: framework/vc_extension/vc_map.php:3019
+#@ ftc
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: framework/vc_extension/update_param.php:35
+#: framework/vc_extension/vc_map.php:675
+#@ ftc
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: framework/vc_extension/vc_map.php:761
+#@ ftc
+msgid "Background Opacity On Device"
+msgstr "Opacidade do fundo em Dispositivo"
+
+#: framework/mega_menu.php:398
+#@ ftc
+msgid "Background Position"
+msgstr "Posição do fundo"
+
+#: framework/mega_menu.php:385
+#@ ftc
+msgid "Background Repeat"
+msgstr "Repetição do fundo"
+
+#: framework/vc_extension/update_param.php:20
+#@ ftc
+msgid "Background Type"
+msgstr "Tipo de fundo"
+
+#: framework/vc_extension/vc_map.php:683
+#@ ftc
+msgid "Background Url"
+msgstr "URL Fundo"
+
+#: framework/vc_extension/vc_map.php:452
+#@ ftc
+msgid "Background color"
+msgstr "Cor de fundo"
+
+#: framework/vc_extension/vc_map.php:460
+#@ ftc
+msgid "Background color hover"
+msgstr "Cor de fundo (hover)"
+
+#: framework/vc_extension/vc_map.php:3578
+#@ ftc
+msgid "Background image"
+msgstr "Imagem de fundo"
+
+#: framework/vc_extension/vc_map.php:768
+#@ ftc
+msgid "Background image will be blurred on device. Note: should set background color "
+msgstr "Imagem de fundo ficará borrada no dispositivo . Nota: deve definir a cor de fundo"
+
+#: framework/woo_term.php:77
+#: framework/woo_term.php:187
+#@ ftc
+msgid "Banner"
+msgstr "Banner"
+
+#: framework/vc_extension/vc_map.php:699
+#@ ftc
+msgid "Banner content"
+msgstr "Conteúdo do Banner"
+
+#: framework/vc_extension/vc_map.php:3304
+#@ ftc
+msgid "Banner position"
+msgstr "Posição do banner"
+
+#: framework/vc_extension/vc_map.php:2624
+#: framework/vc_extension/vc_map.php:3296
+#@ ftc
+msgid "Banners"
+msgstr "Banners"
+
+#: framework/widgets/social_icons.php:59
+#@ ftc
+msgid "Become our fan"
+msgstr "Torne-se nosso fã"
+
+#: framework/includes/class-tgm-plugin-activation.php:393
+#@ ftc
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Ativando plugin"
+msgstr[1] "Ativando plugins"
+
+#: framework/includes/class-tgm-plugin-activation.php:383
+#@ ftc
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Início da instalação do plugin"
+msgstr[1] "Início da instalação dos plugins"
+
+#: framework/includes/class-tgm-plugin-activation.php:388
+#@ ftc
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Iniciando atualização do plugin"
+msgstr[1] "Iniciando as atualizações dos plugins"
+
+#: framework/widgets/products.php:257
+#@ ftc
+msgid "Best selling"
+msgstr "Mais popular"
+
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:34
+#@ ftc
+msgid "Billing Address"
+msgstr "Endereço de cobrança"
+
+#: framework/vc_extension/vc_map.php:198
+#: framework/vc_extension/vc_map.php:1168
+#: framework/vc_extension/vc_map.php:1576
+#: framework/vc_extension/vc_map.php:1812
+#: framework/vc_extension/vc_map.php:2074
+#: framework/vc_extension/vc_map.php:2228
+#: framework/vc_extension/vc_map.php:2463
+#: framework/vc_extension/vc_map.php:2588
+#: framework/vc_extension/vc_map.php:3252
+#: framework/vc_extension/vc_map.php:3570
+#@ ftc
+msgid "Block title"
+msgstr "título do bloco"
+
+#: framework/register_sidebar.php:24
+#@ ftc
+msgid "Blog Detail Sidebar"
+msgstr "Blog detalhe barra lateral"
+
+#: framework/register_sidebar.php:15
+#@ ftc
+msgid "Blog Sidebar"
+msgstr "Barra lateral na página blog"
+
+#: framework/vc_extension/vc_map.php:468
+#@ ftc
+msgid "Border color"
+msgstr "Cor da borda"
+
+#: framework/vc_extension/vc_map.php:476
+#@ ftc
+msgid "Border color hover"
+msgstr "Cor da borda (hover)"
+
+#: framework/vc_extension/vc_map.php:484
+#@ ftc
+msgid "Border width"
+msgstr "Largura da borda"
+
+#: framework/widgets/facebook_page.php:107
+#@ ftc
+msgid "Box height"
+msgstr "Altura do box"
+
+#: framework/woo_term.php:31
+#: framework/woo_term.php:126
+#@ ftc
+msgid "Breadcrumbs Background Image"
+msgstr "Imagem de fundo da Navegação estrutural"
+
+#: framework/vc_extension/vc_map.php:1536
+#@ ftc
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: framework/vc_extension/vc_map.php:160
+#@ ftc
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: framework/vc_extension/update_param.php:140
+#@ ftc
+msgid "CSS Animation"
+msgstr "CSS animação"
+
+#: framework/mega_menu.php:286
+#@ ftc
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (opcional)"
+
+#: framework/vc_extension/vc_map.php:1404
+#: framework/widgets/flickr.php:160
+#: framework/widgets/instagram.php:143
+#@ ftc
+msgid "Cache time (hours)"
+msgstr "tempo de cache (horas)"
+
+#: framework/widgets/social_icons.php:80
+#@ ftc
+msgid "Call Us"
+msgstr "Ligue para nós."
+
+#: framework/mega_menu.php:437
+#@ ftc
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: framework/theme_filter.php:97
+#@ ftc
+msgid "Cancel reply"
+msgstr "Cancelar resposta"
+
+#: dokan/products/new-product-single.php:549
+#@ ftc
+msgid "Catalog"
+msgstr "Catálogo"
+
+#: dokan/products/new-product-single.php:548
+#@ ftc
+msgid "Catalog or Search"
+msgstr "Catálogo ou Pesquisa"
+
+#: framework/grid_list_toggle.php:18
+#@ ftc
+msgid "Catalog view"
+msgstr "Ver catalógo"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/vc_extension/vc_map.php:239
+#: framework/vc_extension/vc_map.php:869
+#: framework/vc_extension/vc_map.php:1013
+#: framework/vc_extension/vc_map.php:1214
+#: single-portfolio.php:115
+#@ ftc
+msgid "Categories"
+msgid_plural "Categories:"
+msgstr[0] "Categoria"
+msgstr[1] "Categorias"
+
+#: framework/woo_hooks.php:473
+#@ ftc
+msgid "Categories:"
+msgstr "Categorias: "
+
+#: content.php:143
+#: framework/woo_hooks.php:287
+#: single.php:127
+#@ ftc
+msgid "Categories: "
+msgstr "Categorias: "
+
+#: dokan/products/new-product-single.php:230
+#@ ftc
+msgid "Category"
+msgstr "Categoria"
+
+#: archive.php:32
+#@ ftc
+msgid "Category: "
+msgstr "Categoria"
+
+#: framework/widgets/social_icons.php:83
+#@ ftc
+msgid "Chat With Us"
+msgstr "Chat conosco"
+
+#: framework/woo_functions.php:131
+#: woocommerce/cart/mini-cart.php:88
+#@ ftc
+msgid "Checkout"
+msgstr "Finalizar"
+
+#: framework/vc_extension/vc_map.php:2500
+#@ ftc
+msgid "Child Of"
+msgstr "Filho de "
+
+#: dokan/products/new-product-single.php:261
+#: dokan/products/product-edit.php:321
+#@ ftc
+msgid "Choose a category"
+msgstr "Escolha uma categoria"
+
+#: framework/woo_filter_by_color.php:97
+#: framework/woo_filter_by_color.php:163
+#@ ftc
+msgid "Choose an image"
+msgstr "Escolha uma imagem"
+
+#: woocommerce/single-product/add-to-cart/variable.php:124
+#@ ftc
+msgid "Clear selection"
+msgstr "Limpar seleção"
+
+#: framework/vc_extension/vc_map.php:2596
+#: framework/woo_filter_by_color.php:60
+#: framework/woo_filter_by_color.php:129
+#@ ftc
+msgid "Color"
+msgstr "Cor"
+
+#: framework/vc_extension/vc_map.php:3288
+#@ ftc
+msgid "Color icon"
+msgstr "Cor do ícone"
+
+#: framework/vc_extension/vc_map.php:3260
+#@ ftc
+msgid "Color title"
+msgstr "Cor do título"
+
+#: framework/widgets/flickr.php:137
+#: framework/widgets/instagram.php:119
+#@ ftc
+msgid "Column"
+msgstr "Coluna"
+
+#: framework/mega_menu.php:319
+#: framework/vc_extension/vc_map.php:218
+#: framework/vc_extension/vc_map.php:993
+#: framework/vc_extension/vc_map.php:1650
+#: framework/vc_extension/vc_map.php:1886
+#: framework/vc_extension/vc_map.php:2272
+#: framework/vc_extension/vc_map.php:2471
+#: framework/vc_extension/vc_map.php:2695
+#: framework/vc_extension/vc_map.php:3027
+#@ ftc
+msgid "Columns"
+msgstr "Colunas"
+
+#: comments.php:12
+#@ ftc
+msgid "Comments"
+msgstr "Comentários"
+
+#: comments.php:30
+#@ ftc
+msgid "Comments are closed."
+msgstr "Comentários estão fechados"
+
+#: framework/vc_extension/vc_map.php:886
+#: framework/vc_extension/vc_map.php:1176
+#: framework/vc_extension/vc_map.php:1360
+#: framework/vc_extension/vc_map.php:1584
+#: framework/vc_extension/vc_map.php:1820
+#: framework/vc_extension/vc_map.php:2236
+#@ ftc
+msgid "Content Border"
+msgstr "Conteúdo da borda"
+
+#: framework/woo_hooks.php:709
+#@ ftc
+msgid "Continue Shopping"
+msgstr "Continuar comprando"
+
+#: framework/vc_extension/vc_map.php:2312
+#@ ftc
+msgid "Counter position"
+msgstr "Posição do contador"
+
+#: woocommerce/cart/cart.php:128
+#@ ftc
+msgid "Coupon"
+msgstr "Cupom"
+
+#: woocommerce/cart/cart.php:128
+#@ ftc
+msgid "Coupon code"
+msgstr "Código do cupom"
+
+#: framework/woo_functions.php:35
+#@ ftc
+msgid "Create New Account"
+msgstr "Criar nova conta"
+
+#: framework/vc_extension/vc_map.php:136
+#@ ftc
+msgid "Currency"
+msgstr "Moeda"
+
+#: framework/widgets/social_icons.php:212
+#@ ftc
+msgid "Custom Font - Use FontAwesome class"
+msgstr "Fonte personalizada - Use classe FontAwesome"
+
+#: framework/vc_extension/vc_map.php:2616
+#: framework/vc_extension/vc_map.php:3280
+#@ ftc
+msgid "Custom Icon"
+msgstr "Ícone personalizado"
+
+#: framework/widgets/social_icons.php:204
+#@ ftc
+msgid "Custom Link"
+msgstr "link personalizado"
+
+#: framework/widgets/social_icons.php:208
+#@ ftc
+msgid "Custom Text - Show on tooltip"
+msgstr "Texto personalizado - Mostrar no dica de ferramenta"
+
+#: dokan/products/new-product-single.php:557
+#@ ftc
+msgid "Customer will get this info in their order email"
+msgstr "Cliente irá obter esta informação no seu e-mail de compra"
+
+#: single-portfolio.php:90
+#@ ftc
+msgid "Date"
+msgstr "Data"
+
+#: framework/vc_extension/vc_map.php:1459
+#@ ftc
+msgid "Day"
+msgstr "Dia"
+
+#: archive.php:17
+#@ ftc
+msgid "Day: "
+msgstr "Dia: "
+
+#: framework/woo_term.php:46
+#: framework/woo_term.php:57
+#: framework/woo_term.php:67
+#: framework/woo_term.php:151
+#: framework/woo_term.php:164
+#: framework/woo_term.php:176
+#@ ftc
+msgid "Default"
+msgstr "Padrão"
+
+#: framework/grid_list_toggle.php:13
+#: framework/grid_list_toggle.php:26
+#@ ftc
+msgid "Default catalog view"
+msgstr "Exibição de catálogo padrão"
+
+#: dokan/products/new-product-single.php:359
+#@ ftc
+msgid "Delete image"
+msgstr "Apagar imagem"
+
+#: framework/widgets/product_categories.php:173
+#@ ftc
+msgid "Descending"
+msgstr "descendente"
+
+#: dokan/products/new-product-single.php:382
+#: framework/mega_menu.php:298
+#: framework/vc_extension/vc_map.php:152
+#@ ftc
+msgid "Description"
+msgstr "Descrição"
+
+#: dokan/products/new-product-single.php:195
+#@ ftc
+msgid "Discounted Price"
+msgstr "Preço com desconto"
+
+#: framework/includes/class-tgm-plugin-activation.php:404
+#@ ftc
+msgid "Dismiss this notice"
+msgstr "Descartar essa notícia."
+
+#: framework/widgets/flickr.php:145
+#@ ftc
+msgid "Display"
+msgstr "Exibir"
+
+#: framework/mega_menu.php:333
+#@ ftc
+msgid "Display A Widget Area"
+msgstr "Exibir uma Area Widget"
+
+#: framework/widgets/feedburner_subscription.php:13
+#@ ftc
+msgid "Display Feedburner Subscriptions Form"
+msgstr "Exibir formulário de assinatura do Feedburner"
+
+#: framework/widgets/product_categories.php:13
+#@ ftc
+msgid "Display Your Product Categories"
+msgstr "Exibir suas categorias de produtos"
+
+#: framework/widgets/social_icons.php:13
+#@ ftc
+msgid "Display Your Social Icons"
+msgstr "Exibir seus ícones sociais"
+
+#: framework/widgets/menus.php:13
+#@ ftc
+msgid "Display a vertical menu, support Mega Menu"
+msgstr "Exibir um menu vertical, apoiar Mega Menu"
+
+#: framework/widgets/blogs.php:13
+#@ ftc
+msgid "Display blogs on site"
+msgstr "Exibir blogs no site"
+
+#: framework/grid_list_toggle.php:22
+#@ ftc
+msgid "Display option to show product in grid or list view"
+msgstr "Exibir opção para mostrar o produto na grade ou em lista"
+
+#: framework/widgets/blogs_tabs.php:13
+#@ ftc
+msgid "Display popular and recent blogs in tabs"
+msgstr "Exibir blog recentes e populares em guia"
+
+#: framework/grid_list_toggle.php:27
+#@ ftc
+msgid "Display products in grid or list view by default"
+msgstr "Produtos de exibição em grade ou em lista por padrão"
+
+#: framework/widgets/recent_comments.php:13
+#@ ftc
+msgid "Display recent comments on site"
+msgstr "Exibir comentários recentes no site"
+
+#: framework/vc_extension/vc_map.php:3595
+#@ ftc
+msgid "Display sub categories of this category"
+msgstr "Exibir sub-categorias nesta categoria"
+
+#: framework/widgets/facebook_page.php:13
+#@ ftc
+msgid "Display the Facebook Page"
+msgstr "Exibir a página Facebook"
+
+#: framework/vc_extension/vc_map.php:3311
+#@ ftc
+msgid "Display the banners on the top or bottom of products"
+msgstr "Exibir os banners na parte superior ou inferior dos produtos"
+
+#: framework/vc_extension/vc_map.php:2628
+#@ ftc
+msgid "Display these banners on the right side"
+msgstr "Exibir esses banners no lado direito"
+
+#: framework/widgets/flickr.php:13
+#@ ftc
+msgid "Display your photos from Flickr"
+msgstr "Exibir suas fotos do Flickr"
+
+#: framework/widgets/instagram.php:13
+#@ ftc
+msgid "Display your photos from Instagram"
+msgstr "Exibir suas fotos do Instagram"
+
+#: framework/widgets/products.php:13
+#@ ftc
+msgid "Display your products on site"
+msgstr "Exibir seus produtos no site"
+
+#: dokan/products/new-product-single.php:431
+#@ ftc
+msgid "Do not allow"
+msgstr "Não permitir"
+
+#: framework/widgets/product_categories.php:152
+#@ ftc
+msgid "Don't select to show all"
+msgstr "Não selecione para mostrar todas"
+
+#: dokan/products/new-product-single.php:501
+#@ ftc
+msgid "Download Expiry"
+msgstr "Download expirado"
+
+#: dokan/products/new-product-single.php:496
+#@ ftc
+msgid "Download Limit"
+msgstr "Download limite"
+
+#: dokan/products/new-product-single.php:530
+#@ ftc
+msgid "Draft"
+msgstr "Rascunho"
+
+#: framework/vc_extension/vc_map.php:144
+#@ ftc
+msgid "During Price"
+msgstr "Durante preço"
+
+#: framework/vc_extension/vc_map.php:2733
+#: framework/vc_extension/vc_map.php:3065
+#@ ftc
+msgid "Each tab will be a sub category of this category. This option is available when the Product Categories option is empty"
+msgstr "Cada guia será uma sub-categoria desta categoria. Esta opção está disponível quando a opção categorias de produtos está vazio"
+
+#: dokan/products/product-edit.php:150
+#: woocommerce/myaccount/my-address.php:78
+#@ ftc
+msgid "Edit"
+msgstr "Editar"
+
+#: framework/mega_menu.php:250
+#: framework/mega_menu.php:252
+#@ ftc
+msgid "Edit Menu Item"
+msgstr "Editar Item no Menu"
+
+#: dokan/products/new-product-single.php:110
+#@ ftc
+msgid "Edit Product"
+msgstr "Editar produto"
+
+#: framework/theme_filter.php:79
+#@ ftc
+msgid "Email Address <span class=\"required\">*</span>"
+msgstr "Email de e-mail <span class=\"required\">*</span>"
+
+#: framework/woo_hooks.php:453
+#@ ftc
+msgid "Email to a Friend"
+msgstr "Enviar para amigos"
+
+#: dokan/products/product-edit.php:250
+#@ ftc
+msgid "Enable Discounted Price"
+msgstr "Ativar Preço com desconto"
+
+#: framework/mega_menu.php:312
+#@ ftc
+msgid "Enable Mega Menu"
+msgstr "Habilitar Mega Menu"
+
+#: dokan/products/new-product-single.php:562
+#@ ftc
+msgid "Enable product reviews"
+msgstr "Ativar produtos avaliados"
+
+#: dokan/products/new-product-single.php:408
+#@ ftc
+msgid "Enable product stock management"
+msgstr "Permitir o gerenciamento de estoque de produto"
+
+#: framework/vc_extension/vc_map.php:3084
+#@ ftc
+msgid "Enter active tab number"
+msgstr "Introduza o número de guia ativa"
+
+#: framework/widgets/social_icons.php:157
+#@ ftc
+msgid "Enter description about your social icons"
+msgstr "Insira os detalhes sobre seus ícones sociais"
+
+#: framework/vc_extension/vc_map.php:1688
+#@ ftc
+msgid "Enter product name or slug to search"
+msgstr "Inserir o nome do produto ou slug para pesquisa"
+
+#: framework/widgets/feedburner_subscription.php:97
+#@ ftc
+msgid "Enter your Feedburner ID"
+msgstr "Insira seu Feedburner ID"
+
+#: framework/widgets/feedburner_subscription.php:105
+#@ ftc
+msgid "Enter your Intro Text Line 1"
+msgstr "Insira sua linha de introdução 1"
+
+#: framework/widgets/feedburner_subscription.php:109
+#@ ftc
+msgid "Enter your Intro Text Line 2"
+msgstr "Insira sua linha de introdução 2"
+
+#: framework/widgets/feedburner_subscription.php:113
+#@ ftc
+msgid "Enter your button text"
+msgstr "Insira seu texto do botão"
+
+#: framework/widgets/blogs.php:290
+#: framework/widgets/facebook_page.php:82
+#: framework/widgets/feedburner_subscription.php:101
+#: framework/widgets/flickr.php:125
+#: framework/widgets/instagram.php:107
+#: framework/widgets/menus.php:69
+#: framework/widgets/product_categories.php:120
+#: framework/widgets/products.php:247
+#: framework/widgets/recent_comments.php:155
+#: framework/widgets/social_icons.php:145
+#@ ftc
+msgid "Enter your title"
+msgstr "Insira o seu título"
+
+#: framework/theme_functions.php:538
+#@ ftc
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: dokan/products/new-product-single.php:136
+#: dokan/products/product-edit.php:134
+#@ ftc
+msgid "Error!"
+msgstr "Erro!"
+
+#: framework/vc_extension/vc_map.php:571
+#@ ftc
+msgid "Ex: thumbnail, medium, large or full"
+msgstr "Ex: Miniatura, medio, grande ou total."
+
+#: framework/vc_extension/vc_map.php:1338
+#@ ftc
+msgid "Exclude Replies"
+msgstr "Excluir Respostas"
+
+#: framework/includes/class-tgm-plugin-activation.php:2194
+#@ ftc
+msgid "External Source"
+msgstr "Fonte Externa"
+
+#: framework/vc_extension/vc_map.php:795
+#@ ftc
+msgid "Extra Class"
+msgstr "Extra classe"
+
+#: framework/vc_extension/update_param.php:117
+#@ ftc
+msgid "Extra Options"
+msgstr "Opções extra"
+
+#: framework/vc_extension/vc_map.php:102
+#@ ftc
+msgid "Extra class"
+msgstr "Extra classe"
+
+#: framework/theme_functions.php:1277
+#@ ftc
+msgid "Extra profile information"
+msgstr "Informações de perfil extra"
+
+#: framework/widgets/social_icons.php:59
+#@ ftc
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/widgets/social_icons.php:162
+#@ ftc
+msgid "Facebook ID"
+msgstr "Facebook ID"
+
+#: framework/widgets/facebook_page.php:86
+#@ ftc
+msgid "Facebook page URL"
+msgstr "Facebook página URL"
+
+#: framework/vc_extension/vc_map.php:67
+#@ ftc
+msgid "Feature title"
+msgstr "Característica título"
+
+#: framework/widgets/products.php:256
+#@ ftc
+msgid "Featured"
+msgstr "Característica"
+
+#: framework/vc_extension/vc_map.php:3426
+#@ ftc
+msgid "Featured product"
+msgstr "Produto em destaque"
+
+#: framework/widgets/social_icons.php:182
+#@ ftc
+msgid "FeedBurner ID"
+msgstr "FeedBurner ID"
+
+#: framework/vc_extension/vc_map.php:1504
+#@ ftc
+msgid "Feedburner ID"
+msgstr "Feedburner ID"
+
+#: dokan/products/new-product-single.php:477
+#@ ftc
+msgid "File URL"
+msgstr "URL do arquivo"
+
+#: framework/woo_hooks.php:313
+#@ ftc
+msgid "Filter"
+msgstr "Filtro"
+
+#: framework/widgets/product_filter_by_availability.php:12
+#@ ftc
+msgid "Filter in stock or out of stock products"
+msgstr "Filtrar produtos disponíveis ou fora de estoque."
+
+#: framework/widgets/social_icons.php:68
+#@ ftc
+msgid "Flickr"
+msgstr "Flickr"
+
+#: framework/widgets/flickr.php:129
+#: framework/widgets/social_icons.php:174
+#@ ftc
+msgid "Flickr ID"
+msgstr "Flickr ID"
+
+#: framework/widgets/social_icons.php:62
+#@ ftc
+msgid "Follow us"
+msgstr "Siga-nos"
+
+#: framework/vc_extension/vc_map.php:516
+#@ ftc
+msgid "Font icon"
+msgstr "Fonte ícone"
+
+#: framework/register_sidebar.php:72
+#@ ftc
+msgid "Footer Copyright Widget Area"
+msgstr "Rodapé Direitos Reservados Area Widget"
+
+#: framework/register_sidebar.php:63
+#@ ftc
+msgid "Footer Widget Area"
+msgstr "Rodapé Widget Area"
+
+#: framework/woo_functions.php:62
+#@ ftc
+msgid "Forgot Your Password?"
+msgstr "Esqueceu sua senha?"
+
+#: dokan/products/new-product-single.php:213
+#: dokan/products/product-edit.php:271
+#@ ftc
+msgid "From"
+msgstr "A partir"
+
+#: framework/woo_term.php:47
+#: framework/woo_term.php:152
+#@ ftc
+msgid "Fullwidth"
+msgstr "Largura completa"
+
+#: framework/vc_extension/vc_map.php:2759
+#@ ftc
+msgid "General tab heading"
+msgstr "Cabeçalho da guia geral"
+
+#: framework/vc_extension/vc_map.php:2755
+#@ ftc
+msgid "Get products from all categories or sub categories"
+msgstr "Obter produtos de todas as categorias ou sub-categorias"
+
+#: framework/widgets/social_icons.php:74
+#@ ftc
+msgid "Get updates"
+msgstr "Receba as atualizações"
+
+#: framework/widgets/social_icons.php:65
+#@ ftc
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/widgets/social_icons.php:170
+#@ ftc
+msgid "Google Plus ID"
+msgstr "Google Plus ID"
+
+#: framework/grid_list_toggle.php:31
+#@ ftc
+msgid "Grid"
+msgstr "Grade"
+
+#: framework/grid_list_toggle.php:135
+#@ ftc
+msgid "Grid view"
+msgstr "Exibição de grade"
+
+#: framework/vc_extension/vc_map.php:644
+#@ ftc
+msgid "Heading Size"
+msgstr "Tamanho cabeçalho"
+
+#: framework/vc_extension/vc_map.php:633
+#@ ftc
+msgid "Heading style"
+msgstr "Estilo do cabeçalho"
+
+#: framework/vc_extension/vc_map.php:1283
+#@ ftc
+msgid "Height"
+msgstr "Altura"
+
+#: dokan/products/new-product-single.php:122
+#: dokan/products/new-product-single.php:551
+#: dokan/products/product-edit.php:99
+#@ ftc
+msgid "Hidden"
+msgstr "Escondido"
+
+#: framework/includes/class-tgm-plugin-activation.php:3375
+#: framework/includes/class-tgm-plugin-activation.php:3381
+#@ ftc
+msgid "Hide Details"
+msgstr "Esconder detalhes"
+
+#: framework/widgets/product_categories.php:133
+#@ ftc
+msgid "Hide empty categories"
+msgstr "Esconder categorias vazias"
+
+#: framework/vc_extension/vc_map.php:2526
+#@ ftc
+msgid "Hide empty product categories"
+msgstr "Esconder categorias de produtos vazias"
+
+#: framework/vc_extension/vc_map.php:2891
+#@ ftc
+msgid "Hide see more button in general tab"
+msgstr "Esconder botão ver mais na aba Geral"
+
+#: framework/theme_functions.php:534
+#@ ftc
+msgid "Home"
+msgstr "Início"
+
+#: framework/register_sidebar.php:6
+#@ ftc
+msgid "Home Sidebar"
+msgstr "Barra lateral na página inicial"
+
+#: framework/vc_extension/vc_map.php:599
+#@ ftc
+msgid "Hover Effect"
+msgstr "Efeito (hover)"
+
+#: framework/vc_extension/vc_map.php:2604
+#: framework/vc_extension/vc_map.php:3268
+#: framework/woo_term.php:90
+#: framework/woo_term.php:209
+#@ ftc
+msgid "Icon"
+msgstr "Ícone"
+
+#: framework/vc_extension/vc_map.php:30
+#@ ftc
+msgid "Icon class"
+msgstr "Classe do ícone"
+
+#: framework/vc_extension/vc_map.php:966
+#: framework/vc_extension/vc_map.php:1389
+#@ ftc
+msgid "If it is set, the navigation buttons will be removed"
+msgstr "Se ele estiver definido, os botões de navegação serão removidos"
+
+#: framework/vc_extension/vc_map.php:1128
+#@ ftc
+msgid "If slider is enabled, the filter bar and load more button will be removed"
+msgstr "Se slide é habilitado, o botão da barra de filtro e de carga serão removidos"
+
+#: framework/vc_extension/vc_map.php:3627
+#@ ftc
+msgid "If you set the Product Category option above, this option wont be available"
+msgstr "Se você definir a opção Categoria do produto acima, esta opção não estará disponível"
+
+#: framework/vc_extension/vc_map.php:559
+#@ ftc
+msgid "Image"
+msgstr "Imagem"
+
+#: framework/vc_extension/vc_map.php:567
+#@ ftc
+msgid "Image Size"
+msgstr "Tamanho da imagem"
+
+#: framework/vc_extension/vc_map.php:49
+#@ ftc
+msgid "Image Thumbnail"
+msgstr "Imagem miniatura"
+
+#: framework/vc_extension/vc_map.php:58
+#@ ftc
+msgid "Image Thumbnail URL"
+msgstr "Imagem miniatura URL"
+
+#: framework/vc_extension/vc_map.php:575
+#@ ftc
+msgid "Image URL"
+msgstr "Imagem URL"
+
+#: dokan/products/new-product-single.php:422
+#: framework/woo_hooks.php:492
+#@ ftc
+msgid "In Stock"
+msgstr "Disponível"
+
+#: framework/vc_extension/vc_map.php:488
+#@ ftc
+msgid "In pixels. Ex: 1"
+msgstr "Em pixels. Ex: 1"
+
+#: framework/vc_extension/update_param.php:99
+#: framework/vc_extension/update_param.php:110
+#@ ftc
+msgid "In seconds"
+msgstr "Em segundos"
+
+#: framework/widgets/product_filter_by_availability.php:115
+#: framework/woo_hooks.php:54
+#: framework/woo_hooks.php:63
+#: framework/woo_hooks.php:78
+#@ ftc
+msgid "In stock"
+msgstr "Disponível"
+
+#: framework/vc_extension/vc_map.php:2737
+#: framework/vc_extension/vc_map.php:3069
+#@ ftc
+msgid "Include children"
+msgstr "Incluir filhos"
+
+#: framework/vc_extension/vc_map.php:3599
+#@ ftc
+msgid "Include parent category in list"
+msgstr "Incluir categoria principal na lista"
+
+#: framework/vc_extension/vc_map.php:2522
+#: framework/vc_extension/vc_map.php:3618
+#@ ftc
+msgid "Include these categories"
+msgstr "Incluir essas categorias"
+
+#: framework/widgets/product_categories.php:157
+#@ ftc
+msgid "Input 0 to show all"
+msgstr "Entrada 0 para mostrar todos"
+
+#: framework/vc_extension/vc_map.php:62
+#: framework/vc_extension/vc_map.php:579
+#: framework/vc_extension/vc_map.php:687
+#@ ftc
+msgid "Input external URL instead of image from library"
+msgstr "Entrada URL externa em vez da imagem da biblioteca"
+
+#: framework/widgets/social_icons.php:86
+#@ ftc
+msgid "Instagram"
+msgstr "Instagram"
+
+#: framework/widgets/social_icons.php:199
+#@ ftc
+msgid "Instagram ID"
+msgstr "Instagram ID"
+
+#: framework/widgets/instagram.php:207
+#@ ftc
+msgid "Instagram Image"
+msgstr "Instagram imagem"
+
+#: framework/widgets/instagram.php:162
+#@ ftc
+msgid "Instagram did not return a 200."
+msgstr "Instagram não retornou uma 200."
+
+#: framework/widgets/instagram.php:229
+#@ ftc
+msgid "Instagram did not return any images."
+msgstr "Instagram não encontrou nenhum imagens."
+
+#: framework/widgets/instagram.php:170
+#: framework/widgets/instagram.php:176
+#: framework/widgets/instagram.php:180
+#@ ftc
+msgid "Instagram has returned invalid data."
+msgstr "Instagram retornou dados inválidos."
+
+#: framework/includes/class-tgm-plugin-activation.php:2608
+#@ ftc
+msgid "Install"
+msgstr "Instalado"
+
+#: framework/includes/class-tgm-plugin-activation.php:334
+#@ ftc
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: framework/includes/class-tgm-plugin-activation.php:333
+#@ ftc
+msgid "Install Required Plugins"
+msgstr "Instalar plugins necessários"
+
+#: framework/includes/class-tgm-plugin-activation.php:2218
+#@ ftc
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: framework/includes/class-tgm-plugin-activation.php:2384
+#@ ftc
+msgid "Installed version:"
+msgstr "A versão instalada: "
+
+#: framework/includes/class-tgm-plugin-activation.php:3383
+#, php-format
+#@ ftc
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin  %1$s (%2$d/%3$d)"
+
+#: framework/includes/class-tgm-plugin-activation.php:335
+#, php-format
+#@ ftc
+msgid "Installing Plugin: %s"
+msgstr "Instalando o Plugin: "
+
+#: framework/includes/class-tgm-plugin-activation.php:3377
+#, php-format
+#@ ftc
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando plugin %1$s (%2$d/%3$d)"
+
+#: framework/vc_extension/vc_map.php:1520
+#@ ftc
+msgid "Intro Text Line 1"
+msgstr "Texo de introdução da linha 1"
+
+#: framework/vc_extension/vc_map.php:1528
+#@ ftc
+msgid "Intro Text Line 2"
+msgstr "Texo de introdução da linha 2"
+
+#: dokan/products/product-edit.php:160
+#@ ftc
+msgid "Inventory"
+msgstr "Inventário"
+
+#: dokan/products/new-product-single.php:394
+#@ ftc
+msgid "Inventory & Variants"
+msgstr "Inventário e variantes"
+
+#: woocommerce/cart/cart.php:27
+#@ ftc
+msgid "Item"
+msgstr "Item"
+
+#: framework/vc_extension/vc_map.php:2261
+#@ ftc
+msgid "Item Layout"
+msgstr "Apresentação item"
+
+#: framework/widgets/social_icons.php:65
+#@ ftc
+msgid "Join our circle"
+msgstr "Junte-se ao nosso círculo"
+
+#: admin/classes/class.options_machine.php:556
+#@ ftc
+msgid "Last Backup : "
+msgstr "Último Backup: "
+
+#: framework/vc_extension/update_param.php:8
+#: framework/vc_extension/vc_map.php:206
+#: framework/woo_term.php:44
+#: framework/woo_term.php:148
+#@ ftc
+msgid "Layout"
+msgstr "Layout"
+
+#: framework/theme_filter.php:96
+#, php-format
+#@ ftc
+msgid "Leave a Reply to %s"
+msgstr "Deixe uma resposta para %s"
+
+#: framework/theme_filter.php:95
+#@ ftc
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: framework/vc_extension/vc_map.php:3614
+#@ ftc
+msgid "Leave blank to show all"
+msgstr "Deixe em branco para mostrar todas"
+
+#: framework/woo_term.php:50
+#: framework/woo_term.php:155
+#@ ftc
+msgid "Left & Right Sidebar"
+msgstr "Barra lateral na esquerda e direita"
+
+#: framework/woo_term.php:48
+#: framework/woo_term.php:55
+#: framework/woo_term.php:153
+#: framework/woo_term.php:161
+#@ ftc
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: single-portfolio.php:143
+#@ ftc
+msgid "Likes"
+msgstr "Curtidas"
+
+#: framework/vc_extension/vc_map.php:231
+#: framework/vc_extension/vc_map.php:908
+#: framework/vc_extension/vc_map.php:1005
+#: framework/vc_extension/vc_map.php:1198
+#: framework/vc_extension/vc_map.php:1658
+#: framework/vc_extension/vc_map.php:1902
+#: framework/vc_extension/vc_map.php:2097
+#: framework/vc_extension/vc_map.php:2280
+#: framework/vc_extension/vc_map.php:2479
+#: framework/vc_extension/vc_map.php:2703
+#: framework/vc_extension/vc_map.php:3035
+#: framework/vc_extension/vc_map.php:3378
+#@ ftc
+msgid "Limit"
+msgstr "Limite"
+
+#: framework/vc_extension/vc_map.php:3410
+#@ ftc
+msgid "Limit sub categories"
+msgstr "Limite de sub-categorias"
+
+#: framework/vc_extension/vc_map.php:1330
+#@ ftc
+msgid "Limit tweets"
+msgstr "Limite tweets"
+
+#: framework/vc_extension/vc_map.php:83
+#: framework/vc_extension/vc_map.php:168
+#: framework/vc_extension/vc_map.php:428
+#: framework/vc_extension/vc_map.php:583
+#: framework/vc_extension/vc_map.php:725
+#@ ftc
+msgid "Link"
+msgstr "Link"
+
+#: framework/mega_menu.php:292
+#@ ftc
+msgid "Link Relationship (XFN)"
+msgstr "Link Relacionado (XFN)"
+
+#: framework/vc_extension/vc_map.php:591
+#: framework/vc_extension/vc_map.php:733
+#@ ftc
+msgid "Link Title"
+msgstr "Link do título"
+
+#: framework/vc_extension/vc_map.php:2632
+#: framework/vc_extension/vc_map.php:3315
+#@ ftc
+msgid "Links for banners"
+msgstr "Link para banners"
+
+#: framework/grid_list_toggle.php:32
+#@ ftc
+msgid "List"
+msgstr "Lista"
+
+#: framework/grid_list_toggle.php:135
+#@ ftc
+msgid "List view"
+msgstr "Exibição de lista"
+
+#: framework/vc_extension/vc_map.php:369
+#: framework/vc_extension/vc_map.php:1113
+#@ ftc
+msgid "Load more button text"
+msgstr "Coloque mais texto do botão"
+
+#: framework/vc_extension/vc_map.php:2744
+#: framework/vc_extension/vc_map.php:3076
+#@ ftc
+msgid "Load the products of sub categories in each tab"
+msgstr "Coloque os produtos de sub-categorias em cada separador"
+
+#: framework/theme_filter.php:90
+#, php-format
+#@ ftc
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Logado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Sair se não for sua conta\">Deseja sair??</a>"
+
+#: framework/woo_functions.php:33
+#: framework/woo_functions.php:56
+#@ ftc
+msgid "Login"
+msgstr "Entrar"
+
+#: framework/woo_functions.php:38
+#@ ftc
+msgid "Logout"
+msgstr "Sair"
+
+#: framework/vc_extension/update_param.php:65
+#@ ftc
+msgid "MP4 Video URL"
+msgstr "MP4 Video URL"
+
+#: dokan/products/new-product-single.php:397
+#@ ftc
+msgid "Manage inventory, and configure the options for selling this product."
+msgstr "Gerenciar inventário e configurar as opções para vender este produto."
+
+#: framework/vc_extension/vc_map.php:1299
+#@ ftc
+msgid "Map Type"
+msgstr "Tipo de mapa"
+
+#: framework/vc_extension/vc_map.php:401
+#: framework/vc_extension/vc_map.php:1223
+#: framework/vc_extension/vc_map.php:2055
+#: framework/vc_extension/vc_map.php:2445
+#: framework/vc_extension/vc_map.php:2570
+#@ ftc
+msgid "Margin"
+msgstr "Margem"
+
+#: framework/vc_extension/vc_map.php:832
+#@ ftc
+msgid "Member name"
+msgstr "Nome do membro"
+
+#: framework/widgets/menus.php:74
+#@ ftc
+msgid "Menu"
+msgstr "Menu"
+
+#: framework/vc_extension/vc_map.php:1692
+#: framework/vc_extension/vc_map.php:1923
+#@ ftc
+msgid "Meta position"
+msgstr "Posição Meta"
+
+#: framework/includes/class-tgm-plugin-activation.php:2392
+#@ ftc
+msgid "Minimum required version:"
+msgstr "Versão mínima necessária: "
+
+#: framework/widgets/products.php:259
+#@ ftc
+msgid "Mixed order"
+msgstr "Ordem misturada"
+
+#: framework/theme_functions.php:65
+#@ ftc
+msgid "Mobile Navigation"
+msgstr "Navegação pelo celular"
+
+#: framework/vc_extension/vc_map.php:1467
+#@ ftc
+msgid "Month"
+msgstr "Mês"
+
+#: archive.php:20
+#@ ftc
+msgid "Month: "
+msgstr "Mês: "
+
+#: framework/mega_menu.php:248
+#@ ftc
+msgid "Move down"
+msgstr "Mover para baixo"
+
+#: framework/mega_menu.php:233
+#@ ftc
+msgid "Move up"
+msgstr "Mover para cima"
+
+#: framework/woo_functions.php:37
+#@ ftc
+msgid "My Account"
+msgstr "Minha conta"
+
+#: woocommerce/myaccount/my-address.php:32
+#@ ftc
+msgid "My Address"
+msgstr "Meu endereço"
+
+#: woocommerce/myaccount/my-address.php:26
+#@ ftc
+msgid "My Addresses"
+msgstr "Meus endereços"
+
+#: framework/woo_hooks.php:485
+#@ ftc
+msgid "N/A"
+msgstr "N/A"
+
+#: framework/mega_menu.php:268
+#@ ftc
+msgid "Navigation Label"
+msgstr "Etiqueta de navegação"
+
+#: comments.php:24
+#@ ftc
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: single-portfolio.php:155
+#@ ftc
+msgid "Next Project"
+msgstr "Próximo projeto"
+
+#: single.php:176
+#@ ftc
+msgid "Next post"
+msgstr "Próxima postagem"
+
+#: framework/vc_extension/templates/vc_tabs.php:53
+#@ ftc
+msgid "Next tab"
+msgstr "Próxima aba"
+
+#: framework/includes/class-tgm-plugin-activation.php:401
+#, php-format
+#@ ftc
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação tomada. Plugin %1$s já estava ativo."
+
+#: framework/includes/class-tgm-plugin-activation.php:2819
+#@ ftc
+msgid "No plugins are available to be activated at this time."
+msgstr "Não há plugins disponíveis para serem ativados."
+
+#: framework/includes/class-tgm-plugin-activation.php:2686
+#@ ftc
+msgid "No plugins are available to be installed at this time."
+msgstr "Não há plugins disponíveis para serem instalados."
+
+#: framework/includes/class-tgm-plugin-activation.php:2688
+#@ ftc
+msgid "No plugins are available to be updated at this time."
+msgstr "Não há plugins disponíveis para serem atualizados."
+
+#: framework/includes/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ ftc
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Não há plugins para instalar, atualizar ou ativar.  <a href=\"%1$s\">Retornar ao painel</a"
+
+#: framework/includes/class-tgm-plugin-activation.php:2793
+#@ ftc
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Não há plugins selecionados para serem ativados. Nenhuma ação tomada."
+
+#: framework/includes/class-tgm-plugin-activation.php:2648
+#@ ftc
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Não há plugins selecionados para serem instalados. Nenhuma ação tomada."
+
+#: framework/includes/class-tgm-plugin-activation.php:2650
+#@ ftc
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Não há plugins selecionados para serem atualizados. Nenhuma ação tomada."
+
+#: woocommerce/cart/mini-cart.php:74
+#@ ftc
+msgid "No products in the cart."
+msgstr "Sem produtos no carrinho: "
+
+#: framework/widgets/product_categories.php:166
+#@ ftc
+msgid "None"
+msgstr "Nenhum"
+
+#: framework/includes/class-tgm-plugin-activation.php:2214
+#@ ftc
+msgid "Not Installed"
+msgstr "Não Instalado"
+
+#: framework/vc_extension/update_param.php:29
+#@ ftc
+msgid "Note: Youtube Video does not work on mobile"
+msgstr "Note: Video do Youtube não funciona pelo celular"
+
+#: framework/vc_extension/vc_map.php:1422
+#@ ftc
+msgid "Number"
+msgstr "Número"
+
+#: framework/vc_extension/vc_map.php:227
+#: framework/vc_extension/vc_map.php:1654
+#: framework/vc_extension/vc_map.php:1890
+#: framework/vc_extension/vc_map.php:2276
+#: framework/vc_extension/vc_map.php:2475
+#: framework/vc_extension/vc_map.php:2699
+#: framework/vc_extension/vc_map.php:3031
+#@ ftc
+msgid "Number of Columns"
+msgstr "Número de colunas"
+
+#: framework/vc_extension/vc_map.php:235
+#: framework/vc_extension/vc_map.php:912
+#: framework/vc_extension/vc_map.php:1009
+#@ ftc
+msgid "Number of Posts"
+msgstr "Número de postagens"
+
+#: framework/vc_extension/vc_map.php:2483
+#@ ftc
+msgid "Number of Product Categories"
+msgstr "Número de produtos em categorias"
+
+#: framework/vc_extension/vc_map.php:1662
+#: framework/vc_extension/vc_map.php:1906
+#: framework/vc_extension/vc_map.php:2101
+#: framework/vc_extension/vc_map.php:2284
+#: framework/vc_extension/vc_map.php:2707
+#: framework/vc_extension/vc_map.php:3039
+#: framework/vc_extension/vc_map.php:3382
+#@ ftc
+msgid "Number of Products"
+msgstr "Número de produtos"
+
+#: framework/vc_extension/vc_map.php:1210
+#: framework/vc_extension/vc_map.php:1898
+#@ ftc
+msgid "Number of Rows"
+msgstr "Número de linha"
+
+#: framework/vc_extension/vc_map.php:2189
+#@ ftc
+msgid "Number of Rows for slider"
+msgstr "Número de linha por slider"
+
+#: framework/vc_extension/vc_map.php:2928
+#: framework/vc_extension/vc_map.php:3216
+#: framework/vc_extension/vc_map.php:3393
+#@ ftc
+msgid "Number of Rows in slider"
+msgstr "Número de linhas em slider"
+
+#: framework/vc_extension/vc_map.php:3610
+#@ ftc
+msgid "Number of Sub Categories"
+msgstr "Número de sub-categorias"
+
+#: framework/vc_extension/vc_map.php:3414
+#@ ftc
+msgid "Number of Sub Categories. If this value is 0, the tab wont be displayed"
+msgstr "Número de sub-categorias. Se este valor for 0, o guia não vai ser exibido"
+
+#: framework/widgets/recent_comments.php:169
+#@ ftc
+msgid "Number of comments to show"
+msgstr "Número de comentários para mostrar"
+
+#: dokan/products/new-product-single.php:502
+#@ ftc
+msgid "Number of days"
+msgstr "Número de dias"
+
+#: framework/widgets/product_categories.php:155
+#@ ftc
+msgid "Number of parent categories to show"
+msgstr "Número de categorias principais para mostrar"
+
+#: framework/widgets/flickr.php:133
+#: framework/widgets/instagram.php:115
+#@ ftc
+msgid "Number of photos"
+msgstr "Número de fotos"
+
+#: framework/widgets/blogs.php:295
+#: framework/widgets/blogs_tabs.php:212
+#: framework/widgets/products.php:288
+#@ ftc
+msgid "Number of posts to show"
+msgstr "Número de postagens para mostrar"
+
+#: framework/widgets/blogs.php:381
+#: framework/widgets/products.php:283
+#: framework/widgets/recent_comments.php:201
+#@ ftc
+msgid "Number of rows - in carousel slider"
+msgstr "Número de linha - em slider carrossel"
+
+#: framework/vc_extension/vc_map.php:350
+#: framework/vc_extension/vc_map.php:840
+#: framework/vc_extension/vc_map.php:916
+#: framework/widgets/blogs.php:369
+#: framework/widgets/blogs_tabs.php:247
+#@ ftc
+msgid "Number of words in excerpt"
+msgstr "Número de palavras no trecho"
+
+#: framework/widgets/product_categories.php:164
+#@ ftc
+msgid "Number product"
+msgstr "Número de produtos"
+
+#: archive.php:35
+#@ ftc
+msgid "OOPS! FILE NOT FOUND"
+msgstr "OOPS! ARQUIVO NÃO ENCONTRADO"
+
+#: framework/widgets/product_filter_by_color.php:181
+#@ ftc
+msgid "OR"
+msgstr "OU"
+
+#: comments.php:23
+#@ ftc
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: dokan/products/new-product-single.php:529
+#@ ftc
+msgid "Online"
+msgstr "Online"
+
+#: framework/woo_hooks.php:58
+#, php-format
+#@ ftc
+msgid "Only %s left in stock"
+msgstr "Apenas %s esquerda em estoque"
+
+#: framework/vc_extension/update_param.php:14
+#@ ftc
+msgid "Only support Fullwidth Template"
+msgstr "Apenas suporta Largura completa Tema"
+
+#: framework/mega_menu.php:281
+#@ ftc
+msgid "Open link in a new window/tab"
+msgstr "Abrir link em uma nova janela/guia"
+
+#: dokan/products/product-edit.php:155
+#@ ftc
+msgid "Options"
+msgstr "Opções"
+
+#: admin/front-end/options.php:69
+#@ ftc
+msgid "Options Reset"
+msgstr "opções de redefinir"
+
+#: framework/vc_extension/vc_map.php:262
+#: framework/vc_extension/vc_map.php:1036
+#: framework/vc_extension/vc_map.php:1638
+#: framework/vc_extension/vc_map.php:1874
+#: framework/vc_extension/vc_map.php:2683
+#: framework/vc_extension/vc_map.php:3007
+#: framework/vc_extension/vc_map.php:3366
+#: framework/widgets/blogs.php:312
+#: framework/widgets/product_categories.php:170
+#@ ftc
+msgid "Order"
+msgstr "Ordem"
+
+#: framework/vc_extension/vc_map.php:248
+#: framework/vc_extension/vc_map.php:1022
+#: framework/vc_extension/vc_map.php:1621
+#: framework/vc_extension/vc_map.php:1857
+#: framework/vc_extension/vc_map.php:2666
+#: framework/vc_extension/vc_map.php:2990
+#: framework/vc_extension/vc_map.php:3349
+#: framework/widgets/blogs.php:300
+#: framework/widgets/product_categories.php:160
+#@ ftc
+msgid "Order by"
+msgstr "Ordem por"
+
+#: framework/mega_menu.php:421
+#, php-format
+#@ ftc
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: dokan/products/new-product-single.php:520
+#@ ftc
+msgid "Other Options"
+msgstr "Outras opções"
+
+#: dokan/products/new-product-single.php:423
+#@ ftc
+msgid "Out of Stock"
+msgstr "Fore de estoque"
+
+#: framework/widgets/product_filter_by_availability.php:119
+#: framework/woo_hooks.php:81
+#: framework/woo_hooks.php:85
+#@ ftc
+msgid "Out of stock"
+msgstr "Fora de estoque"
+
+#: framework/theme_functions.php:541
+#@ ftc
+msgid "Page"
+msgstr "Página"
+
+#: framework/vc_extension/update_param.php:45
+#@ ftc
+msgid "Parallax Speed"
+msgstr "Velocidade Parallax"
+
+#: framework/vc_extension/vc_map.php:2487
+#@ ftc
+msgid "Parent"
+msgstr "Principal (parent)"
+
+#: framework/vc_extension/vc_map.php:2724
+#: framework/vc_extension/vc_map.php:3056
+#@ ftc
+msgid "Parent Category"
+msgstr "Categoria Principal"
+
+#: framework/woo_functions.php:51
+#@ ftc
+msgid "Password"
+msgstr "Senha"
+
+#: woocommerce/single-product/product-image.php:55
+#@ ftc
+msgid "Placeholder"
+msgstr "Espaço reservado (Placeholder)"
+
+#: framework/vc_extension/update_param.php:85
+#@ ftc
+msgid "Placeholder Image"
+msgstr "Imagem do espaço reservado (Placeholder)"
+
+#: framework/vc_extension/vc_map.php:1544
+#@ ftc
+msgid "Placeholder Text"
+msgstr "Texto de espaço reservado (Placeholder)"
+
+#: framework/widgets/feedburner_subscription.php:117
+#@ ftc
+msgid "Placeholder text"
+msgstr "Texto de espaço reservado (Placeholder)"
+
+#: dokan/products/new-product-single.php:176
+#@ ftc
+msgid "Please choose a Name !!!"
+msgstr "Por favor, escolha um nome!"
+
+#: dokan/products/new-product-single.php:232
+#@ ftc
+msgid "Please choose a category !!!"
+msgstr "Por favor, escolha uma categoria!"
+
+#: framework/includes/class-tgm-plugin-activation.php:405
+#@ ftc
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador do site para obter ajuda."
+
+#: framework/includes/class-tgm-plugin-activation.php:940
+#: framework/includes/class-tgm-plugin-activation.php:943
+#@ ftc
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Entre em contato com o criador do plugin e pedir-lhes para empacotar seu plugin de acordo com as diretrizes do WordPress ."
+
+#: framework/includes/class-tgm-plugin-activation.php:2441
+#@ ftc
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/includes/class-tgm-plugin-activation.php:399
+#: framework/includes/class-tgm-plugin-activation.php:3034
+#@ ftc
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: framework/includes/class-tgm-plugin-activation.php:3033
+#@ ftc
+msgid "Plugin activation failed."
+msgstr "Plugin não ativado."
+
+#: framework/includes/class-tgm-plugin-activation.php:402
+#, php-format
+#@ ftc
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin não ativado. Uma versão maior de %s é necessário para este tema . Por favor, atualizar o plugin."
+
+#: framework/widgets/blogs_tabs.php:202
+#@ ftc
+msgid "Popular tab title"
+msgstr "Título de guia popular"
+
+#: framework/vc_extension/vc_map.php:540
+#@ ftc
+msgid "Popup content"
+msgstr "Conteúdo da Popup"
+
+#: framework/theme_functions.php:542
+#@ ftc
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: framework/vc_extension/vc_map.php:707
+#@ ftc
+msgid "Position Banner Content"
+msgstr "Posição do conteúdo do banner"
+
+#: framework/vc_extension/vc_map.php:2044
+#@ ftc
+msgid "Position navigation button"
+msgstr "Posição de navegação do botão"
+
+#: content.php:150
+#@ ftc
+msgid "Post by "
+msgstr "Postado por"
+
+#: framework/widgets/recent_comments.php:160
+#@ ftc
+msgid "Post type"
+msgstr "Tipo da postagem"
+
+#: framework/includes/class-tgm-plugin-activation.php:2197
+#@ ftc
+msgid "Pre-Packaged"
+msgstr "Pré-embalados"
+
+#: single-portfolio.php:154
+#@ ftc
+msgid "Prev Project"
+msgstr "Projeto anterior"
+
+#: single.php:175
+#@ ftc
+msgid "Prev post"
+msgstr "Postagem anterior"
+
+#: framework/vc_extension/templates/vc_tabs.php:53
+#@ ftc
+msgid "Previous tab"
+msgstr "Aba anterior"
+
+#: dokan/products/new-product-single.php:186
+#: framework/vc_extension/vc_map.php:128
+#: woocommerce/cart/cart.php:28
+#: woocommerce/cart/cart.php:80
+#@ ftc
+msgid "Price"
+msgstr "preço"
+
+#: framework/theme_functions.php:59
+#@ ftc
+msgid "Primary Navigation"
+msgstr "Navegação Primária"
+
+#: framework/woo_hooks.php:448
+#@ ftc
+msgid "Print"
+msgstr "Imprimir"
+
+#: framework/vc_extension/vc_map.php:1666
+#: framework/vc_extension/vc_map.php:1910
+#: framework/vc_extension/vc_map.php:2105
+#: framework/vc_extension/vc_map.php:2288
+#: framework/vc_extension/vc_map.php:2513
+#: framework/vc_extension/vc_map.php:2711
+#: framework/vc_extension/vc_map.php:3043
+#@ ftc
+msgid "Product Categories"
+msgstr "Categorias de Produtos"
+
+#: framework/vc_extension/vc_map.php:3397
+#: framework/vc_extension/vc_map.php:3586
+#@ ftc
+msgid "Product Category"
+msgstr "Categoria de Produto"
+
+#: framework/register_sidebar.php:33
+#@ ftc
+msgid "Product Category Sidebar"
+msgstr "Barra lateral Categorias do Produto"
+
+#: framework/register_sidebar.php:42
+#@ ftc
+msgid "Product Category Top Content"
+msgstr "Categoria de produto de conteúdo superior"
+
+#: framework/register_sidebar.php:51
+#@ ftc
+msgid "Product Detail Sidebar"
+msgstr "Barra lateral Detalhes Produto"
+
+#: framework/vc_extension/vc_map.php:1679
+#@ ftc
+msgid "Product IDs"
+msgstr "Produto ID"
+
+#: dokan/products/new-product-single.php:526
+#@ ftc
+msgid "Product Status"
+msgstr "Status do produto"
+
+#: dokan/products/new-product-single.php:178
+#@ ftc
+msgid "Product name.."
+msgstr "Nome do Produto.."
+
+#: framework/vc_extension/vc_map.php:1595
+#: framework/vc_extension/vc_map.php:1831
+#: framework/vc_extension/vc_map.php:2082
+#: framework/vc_extension/vc_map.php:2247
+#: framework/vc_extension/vc_map.php:2640
+#: framework/vc_extension/vc_map.php:2964
+#: framework/vc_extension/vc_map.php:3323
+#: framework/widgets/products.php:252
+#@ ftc
+msgid "Product type"
+msgstr "Tipo de produto"
+
+#: framework/vc_extension/vc_map.php:2767
+#@ ftc
+msgid "Product type of general tab"
+msgstr "Tipo de produto da guia Geral"
+
+#: dokan/products/product-edit.php:95
+#@ ftc
+msgid "Products"
+msgstr "Produtos"
+
+#: single-portfolio.php:104
+#@ ftc
+msgid "Project URL"
+msgstr "URL do projeto"
+
+#: dokan/products/new-product-single.php:556
+#@ ftc
+msgid "Purchase Note"
+msgstr "Nota de compra"
+
+#: dokan/products/new-product-single.php:414
+#: woocommerce/cart/cart.php:29
+#: woocommerce/cart/cart.php:86
+#@ ftc
+msgid "Quantity"
+msgstr "Quantidade"
+
+#: framework/widgets/product_filter_by_color.php:178
+#@ ftc
+msgid "Query Type:"
+msgstr "Tipo de consulta: "
+
+#: framework/quickshop.php:18
+#@ ftc
+msgid "Quick view"
+msgstr "Detalhes"
+
+#: framework/widgets/social_icons.php:74
+#@ ftc
+msgid "RSS"
+msgstr "RSS"
+
+#: framework/widgets/product_categories.php:165
+#@ ftc
+msgid "Random"
+msgstr "Aleatória"
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+#@ ftc
+msgid "Rated %s out of 5"
+msgstr "Classificado %s de 5"
+
+#: content.php:112
+#: templates/related-posts.php:140
+#@ ftc
+msgid "Read More"
+msgstr "Leia mais"
+
+#: framework/widgets/products.php:254
+#@ ftc
+msgid "Recent"
+msgstr "Recente"
+
+#: framework/widgets/blogs_tabs.php:207
+#@ ftc
+msgid "Recent tab title"
+msgstr "Título de guia recente"
+
+#: framework/includes/class-tgm-plugin-activation.php:2175
+#@ ftc
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: templates/related-posts.php:44
+#@ ftc
+msgid "Related Posts"
+msgstr "Postagens relacionadas"
+
+#: templates/related-portfolios.php:39
+#@ ftc
+msgid "Related Projects"
+msgstr "Projetos relacionados"
+
+#: framework/mega_menu.php:436
+#@ ftc
+msgid "Remove"
+msgstr "Remove"
+
+#: framework/woo_term.php:39
+#: framework/woo_term.php:85
+#: framework/woo_term.php:98
+#: framework/woo_term.php:142
+#: framework/woo_term.php:203
+#: framework/woo_term.php:225
+#@ ftc
+msgid "Remove image"
+msgstr "Remover imagem"
+
+#: framework/woo_functions.php:121
+#: woocommerce/cart/cart.php:111
+#: woocommerce/cart/mini-cart.php:48
+#@ ftc
+msgid "Remove this item"
+msgstr "Remover esse item"
+
+#: framework/includes/class-tgm-plugin-activation.php:2172
+#@ ftc
+msgid "Required"
+msgstr "Requeridos"
+
+#: framework/includes/class-tgm-plugin-activation.php:2226
+#@ ftc
+msgid "Required Update not Available"
+msgstr "Atualização necessária não está disponível"
+
+#: framework/theme_filter.php:83
+#, php-format
+#@ ftc
+msgid "Required fields are marked %s"
+msgstr "Campos obrigatórios %s"
+
+#: framework/includes/class-tgm-plugin-activation.php:2229
+#@ ftc
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+#: framework/vc_extension/vc_map.php:772
+#@ ftc
+msgid "Responsive size"
+msgstr "Tamanho Responsivo"
+
+#: framework/includes/class-tgm-plugin-activation.php:397
+#@ ftc
+msgid "Return to Required Plugins Installer"
+msgstr "Retorno requerido para o instalador de plugins"
+
+#: framework/includes/class-tgm-plugin-activation.php:833
+#: framework/includes/class-tgm-plugin-activation.php:3443
+#@ ftc
+msgid "Return to the Dashboard"
+msgstr "Retorne para o painel"
+
+#: framework/includes/class-tgm-plugin-activation.php:398
+#@ ftc
+msgid "Return to the dashboard"
+msgstr "Volte ao painel"
+
+#: framework/woo_term.php:49
+#: framework/woo_term.php:65
+#: framework/woo_term.php:154
+#: framework/woo_term.php:173
+#@ ftc
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: framework/vc_extension/vc_map.php:2185
+#@ ftc
+msgid "Row"
+msgstr "Linha"
+
+#: framework/vc_extension/vc_map.php:1206
+#: framework/vc_extension/vc_map.php:1894
+#: framework/vc_extension/vc_map.php:2921
+#: framework/vc_extension/vc_map.php:3209
+#: framework/vc_extension/vc_map.php:3386
+#@ ftc
+msgid "Rows"
+msgstr "Linhas"
+
+#: dokan/products/new-product-single.php:403
+#@ ftc
+msgid "SKU"
+msgstr "Código"
+
+#: framework/widgets/products.php:255
+#@ ftc
+msgid "Sale"
+msgstr "Oferta"
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:68
+#@ ftc
+msgid "Save All Changes"
+msgstr "Salvar todas as alterações"
+
+#: dokan/products/new-product-single.php:575
+#: dokan/products/new-product-single.php:576
+#@ ftc
+msgid "Save Product"
+msgstr "Salvar produto"
+
+#: dokan/products/product-edit.php:264
+#@ ftc
+msgid "Schedule"
+msgstr "Cronograma"
+
+#: dokan/products/new-product-single.php:206
+#@ ftc
+msgid "Schedule Discounted Price"
+msgstr "Marcar Preço com desconto"
+
+#: dokan/products/new-product-single.php:550
+#: framework/theme_functions.php:915
+#: framework/theme_functions.php:927
+#: searchform.php:3
+#: searchform.php:22
+#@ ftc
+msgid "Search"
+msgstr "Pesquisa"
+
+#: archive.php:26
+#@ ftc
+msgid "Search Results for: "
+msgstr "Procurar resultados para: "
+
+#: framework/theme_functions.php:910
+#: searchform.php:6
+#@ ftc
+msgid "Search for products"
+msgstr "Buscar por produtos"
+
+#: framework/theme_functions.php:537
+#@ ftc
+msgid "Search results for "
+msgstr "Buscar resultados para "
+
+#: framework/widgets/social_icons.php:68
+#: framework/widgets/social_icons.php:86
+#@ ftc
+msgid "See Us"
+msgstr "Nos veja"
+
+#: framework/vc_extension/vc_map.php:2902
+#@ ftc
+msgid "See more button label"
+msgstr "Veja mais botão label"
+
+#: framework/vc_extension/vc_map.php:2509
+#@ ftc
+msgid "Select a category. Get all descendents of this category"
+msgstr "Selecione uma categoria. Obter todos os descendentes desta categoria"
+
+#: framework/vc_extension/vc_map.php:2496
+#@ ftc
+msgid "Select a category. Get direct children of this category"
+msgstr "Selecione uma categoria. Obter filhos diretos nesta categoria"
+
+#: framework/widgets/blogs.php:320
+#: framework/widgets/product_categories.php:136
+#: framework/widgets/products.php:264
+#@ ftc
+msgid "Select categories"
+msgstr "Escolha as categorias"
+
+#: dokan/products/new-product-single.php:303
+#: dokan/products/product-edit.php:365
+#@ ftc
+msgid "Select product tags"
+msgstr "Selecione tag do produto"
+
+#: framework/vc_extension/vc_map.php:1606
+#: framework/vc_extension/vc_map.php:1842
+#: framework/vc_extension/vc_map.php:2093
+#: framework/vc_extension/vc_map.php:2257
+#: framework/vc_extension/vc_map.php:2651
+#: framework/vc_extension/vc_map.php:2777
+#: framework/vc_extension/vc_map.php:2975
+#: framework/vc_extension/vc_map.php:3334
+#@ ftc
+msgid "Select type of product"
+msgstr "Escolha um tipo de produto"
+
+#: framework/mega_menu.php:368
+#@ ftc
+msgid "Set Background"
+msgstr "Posição do fundo"
+
+#: framework/mega_menu.php:350
+#@ ftc
+msgid "Set Thumbnail"
+msgstr "Conjunto de miniaturas"
+
+#: framework/theme_functions.php:1286
+#@ ftc
+msgid "Set background of author box on blog"
+msgstr "Ajuste o fundo da caixa do autor em blog"
+
+#: framework/vc_extension/vc_map.php:405
+#: framework/vc_extension/vc_map.php:1227
+#: framework/vc_extension/vc_map.php:2059
+#: framework/vc_extension/vc_map.php:2449
+#: framework/vc_extension/vc_map.php:2574
+#@ ftc
+msgid "Set margin between items"
+msgstr "Defina a margem entre os itens"
+
+#: framework/includes/class-tgm-plugin-activation.php:639
+#@ ftc
+msgid "Set the parent_slug config variable instead."
+msgstr "Defina a parent_slug (principal) variável de configuração em vez disso."
+
+#: dokan/products/product-edit.php:165
+#@ ftc
+msgid "Shipping"
+msgstr "Remessa"
+
+#: woocommerce/myaccount/my-address.php:29
+#@ ftc
+msgid "Shipping Address"
+msgstr "Endereço de entrega"
+
+#: woocommerce/content-product_cat.php:48
+#@ ftc
+msgid "Shop Now"
+msgstr "Compre agora"
+
+#: framework/theme_functions.php:363
+#@ ftc
+msgid "Shop by category"
+msgstr "Loja por categoria"
+
+#: dokan/products/new-product-single.php:377
+#@ ftc
+msgid "Short Description"
+msgstr "Descrição Curta"
+
+#: framework/vc_extension/vc_map.php:75
+#@ ftc
+msgid "Short description"
+msgstr "Curta Descrição"
+
+#: framework/vc_extension/vc_map.php:897
+#@ ftc
+msgid "Show Avatar"
+msgstr "Mostar Avatar"
+
+#: framework/includes/class-tgm-plugin-activation.php:3375
+#: framework/includes/class-tgm-plugin-activation.php:3381
+#@ ftc
+msgid "Show Details"
+msgstr "Mostar detalhes"
+
+#: framework/widgets/facebook_page.php:91
+#@ ftc
+msgid "Show Faces"
+msgstr "Mostrar rostos"
+
+#: framework/widgets/facebook_page.php:95
+#@ ftc
+msgid "Show Posts"
+msgstr "Mostras Mensagens"
+
+#: framework/widgets/social_icons.php:217
+#@ ftc
+msgid "Show Tooltip"
+msgstr "Mostar ToolTip"
+
+#: framework/vc_extension/vc_map.php:1791
+#: framework/vc_extension/vc_map.php:2022
+#: framework/vc_extension/vc_map.php:2412
+#: framework/vc_extension/vc_map.php:2869
+#: framework/vc_extension/vc_map.php:3176
+#: framework/vc_extension/vc_map.php:3527
+#@ ftc
+msgid "Show add to cart button"
+msgstr "Mostrar botão de adicionar no carrinho"
+
+#: framework/vc_extension/vc_map.php:295
+#@ ftc
+msgid "Show author"
+msgstr "Mostar autor"
+
+#: framework/widgets/recent_comments.php:175
+#@ ftc
+msgid "Show avatar"
+msgstr "Mostar Avatar"
+
+#: framework/widgets/products.php:299
+#@ ftc
+msgid "Show categories"
+msgstr "Mostrar categorias"
+
+#: framework/vc_extension/vc_map.php:306
+#@ ftc
+msgid "Show comment"
+msgstr "Mostrar comentários"
+
+#: framework/widgets/recent_comments.php:185
+#@ ftc
+msgid "Show comment author"
+msgstr "Mostar comentários do autor"
+
+#: framework/widgets/recent_comments.php:190
+#@ ftc
+msgid "Show comment content"
+msgstr "Mostrar conteúdo comentário"
+
+#: framework/widgets/recent_comments.php:180
+#@ ftc
+msgid "Show comment date"
+msgstr "Mostrar data do comentário"
+
+#: framework/vc_extension/vc_map.php:2301
+#: framework/vc_extension/vc_map.php:3187
+#@ ftc
+msgid "Show counter"
+msgstr "Mostrar contador"
+
+#: framework/widgets/facebook_page.php:99
+#@ ftc
+msgid "Show cover photo"
+msgstr "Mostrar foto da capa"
+
+#: framework/vc_extension/vc_map.php:317
+#@ ftc
+msgid "Show date"
+msgstr "Mostrar data"
+
+#: framework/vc_extension/vc_map.php:1091
+#@ ftc
+msgid "Show filter bar"
+msgstr "Mostrar barra de filtro"
+
+#: framework/vc_extension/vc_map.php:2748
+#@ ftc
+msgid "Show general tab"
+msgstr "Mostrar guia geral"
+
+#: framework/vc_extension/vc_map.php:935
+#: framework/vc_extension/vc_map.php:1121
+#: framework/vc_extension/vc_map.php:2173
+#: framework/vc_extension/vc_map.php:2910
+#: framework/vc_extension/vc_map.php:3198
+#: framework/widgets/blogs.php:377
+#: framework/widgets/products.php:321
+#: framework/widgets/recent_comments.php:197
+#@ ftc
+msgid "Show in a carousel slider"
+msgstr "Mostrar em um slider carrossel"
+
+#: framework/vc_extension/vc_map.php:1080
+#@ ftc
+msgid "Show like icon"
+msgstr "Mostrar como ícone"
+
+#: framework/vc_extension/vc_map.php:1069
+#@ ftc
+msgid "Show link icon"
+msgstr "Mostrar ícone de link"
+
+#: framework/vc_extension/vc_map.php:358
+#: framework/vc_extension/vc_map.php:1102
+#@ ftc
+msgid "Show load more button"
+msgstr "Mostrar carregar mais botão"
+
+#: framework/vc_extension/vc_map.php:377
+#: framework/vc_extension/vc_map.php:947
+#: framework/vc_extension/vc_map.php:1133
+#: framework/vc_extension/vc_map.php:1242
+#: framework/vc_extension/vc_map.php:1371
+#: framework/vc_extension/vc_map.php:2033
+#: framework/vc_extension/vc_map.php:2194
+#: framework/vc_extension/vc_map.php:2423
+#: framework/vc_extension/vc_map.php:2548
+#: framework/vc_extension/vc_map.php:2932
+#: framework/vc_extension/vc_map.php:3220
+#: framework/vc_extension/vc_map.php:3538
+#: framework/widgets/blogs.php:387
+#: framework/widgets/products.php:326
+#: framework/widgets/recent_comments.php:207
+#@ ftc
+msgid "Show navigation button"
+msgstr "Mostrar botão de navegação"
+
+#: framework/vc_extension/vc_map.php:959
+#: framework/vc_extension/vc_map.php:1382
+#@ ftc
+msgid "Show pagination dots"
+msgstr "Mostrar pontos de paginação"
+
+#: framework/vc_extension/vc_map.php:528
+#@ ftc
+msgid "Show popup"
+msgstr "Mostrar Popup"
+
+#: framework/vc_extension/vc_map.php:1058
+#@ ftc
+msgid "Show portfolio date"
+msgstr "Mostrar data do portfolio"
+
+#: framework/vc_extension/vc_map.php:1047
+#@ ftc
+msgid "Show portfolio title"
+msgstr "Mostrar título do portfolio"
+
+#: framework/widgets/blogs.php:355
+#: framework/widgets/blogs_tabs.php:233
+#@ ftc
+msgid "Show post author"
+msgstr "Mostrar postagem do autor"
+
+#: framework/widgets/blogs.php:360
+#: framework/widgets/blogs_tabs.php:238
+#@ ftc
+msgid "Show post comment"
+msgstr "Mostrar comentário da postagem"
+
+#: framework/widgets/product_categories.php:125
+#@ ftc
+msgid "Show post count"
+msgstr "Mostrar o número de contagem"
+
+#: framework/widgets/blogs.php:350
+#: framework/widgets/blogs_tabs.php:228
+#@ ftc
+msgid "Show post date"
+msgstr "Mostrar data da postagem"
+
+#: framework/vc_extension/vc_map.php:328
+#: framework/widgets/blogs.php:365
+#: framework/widgets/blogs_tabs.php:243
+#@ ftc
+msgid "Show post excerpt"
+msgstr "Mostrar resumo postagem"
+
+#: framework/widgets/blogs.php:340
+#: framework/widgets/blogs_tabs.php:218
+#@ ftc
+msgid "Show post thumbnail"
+msgstr "Mostrar miniatura da postagem"
+
+#: framework/vc_extension/vc_map.php:273
+#: framework/widgets/blogs.php:345
+#: framework/widgets/blogs_tabs.php:223
+#@ ftc
+msgid "Show post title"
+msgstr "Mostrar título da postagem"
+
+#: framework/widgets/products.php:309
+#@ ftc
+msgid "Show price"
+msgstr "Mostrar preço"
+
+#: framework/vc_extension/vc_map.php:1725
+#: framework/vc_extension/vc_map.php:1956
+#: framework/vc_extension/vc_map.php:2346
+#: framework/vc_extension/vc_map.php:2803
+#: framework/vc_extension/vc_map.php:3110
+#: framework/vc_extension/vc_map.php:3461
+#@ ftc
+msgid "Show product SKU"
+msgstr "Mostrar produto SKU"
+
+#: framework/vc_extension/vc_map.php:1780
+#: framework/vc_extension/vc_map.php:2011
+#: framework/vc_extension/vc_map.php:2162
+#: framework/vc_extension/vc_map.php:2401
+#: framework/vc_extension/vc_map.php:2858
+#: framework/vc_extension/vc_map.php:3165
+#: framework/vc_extension/vc_map.php:3516
+#@ ftc
+msgid "Show product categories"
+msgstr "Mostrar Categorias de Produtos"
+
+#: framework/vc_extension/vc_map.php:2537
+#@ ftc
+msgid "Show product category title"
+msgstr "Mostrar Título categorias de Produtos"
+
+#: framework/vc_extension/vc_map.php:1703
+#: framework/vc_extension/vc_map.php:1934
+#: framework/vc_extension/vc_map.php:2118
+#: framework/vc_extension/vc_map.php:2324
+#: framework/vc_extension/vc_map.php:2781
+#: framework/vc_extension/vc_map.php:3088
+#: framework/vc_extension/vc_map.php:3439
+#@ ftc
+msgid "Show product image"
+msgstr "Mostrar imagem do produto"
+
+#: framework/vc_extension/vc_map.php:1769
+#: framework/vc_extension/vc_map.php:2000
+#: framework/vc_extension/vc_map.php:2390
+#: framework/vc_extension/vc_map.php:2847
+#: framework/vc_extension/vc_map.php:3154
+#: framework/vc_extension/vc_map.php:3505
+#@ ftc
+msgid "Show product label"
+msgstr "Mostrar etiqueta do produto"
+
+#: framework/vc_extension/vc_map.php:1714
+#: framework/vc_extension/vc_map.php:1945
+#: framework/vc_extension/vc_map.php:2129
+#: framework/vc_extension/vc_map.php:2335
+#: framework/vc_extension/vc_map.php:2792
+#: framework/vc_extension/vc_map.php:3099
+#: framework/vc_extension/vc_map.php:3450
+#@ ftc
+msgid "Show product name"
+msgstr "Mostrar nome do produto"
+
+#: framework/vc_extension/vc_map.php:1736
+#: framework/vc_extension/vc_map.php:1967
+#: framework/vc_extension/vc_map.php:2140
+#: framework/vc_extension/vc_map.php:2357
+#: framework/vc_extension/vc_map.php:2814
+#: framework/vc_extension/vc_map.php:3121
+#: framework/vc_extension/vc_map.php:3472
+#@ ftc
+msgid "Show product price"
+msgstr "Mostrar preço do produto"
+
+#: framework/vc_extension/vc_map.php:1758
+#: framework/vc_extension/vc_map.php:1989
+#: framework/vc_extension/vc_map.php:2151
+#: framework/vc_extension/vc_map.php:2379
+#: framework/vc_extension/vc_map.php:2836
+#: framework/vc_extension/vc_map.php:3143
+#: framework/vc_extension/vc_map.php:3494
+#@ ftc
+msgid "Show product rating"
+msgstr "Mostrar Avaliação do produto"
+
+#: framework/vc_extension/vc_map.php:1747
+#: framework/vc_extension/vc_map.php:1978
+#: framework/vc_extension/vc_map.php:2368
+#: framework/vc_extension/vc_map.php:2825
+#: framework/vc_extension/vc_map.php:3132
+#: framework/vc_extension/vc_map.php:3483
+#@ ftc
+msgid "Show product short description"
+msgstr "Mostrar breve descrição do produto"
+
+#: framework/widgets/products.php:304
+#@ ftc
+msgid "Show product title"
+msgstr "Mostrar título do prouto"
+
+#: framework/widgets/products.php:314
+#@ ftc
+msgid "Show rating"
+msgstr "Mostrar avaliação"
+
+#: framework/vc_extension/vc_map.php:339
+#@ ftc
+msgid "Show read more button"
+msgstr "Mostrar botão leia mais"
+
+#: framework/vc_extension/vc_map.php:2880
+#@ ftc
+msgid "Show see more button"
+msgstr "Mostar botão veja mais"
+
+#: framework/widgets/product_categories.php:129
+#@ ftc
+msgid "Show sub categories"
+msgstr "Mostrar Sub-categorias"
+
+#: framework/vc_extension/vc_map.php:284
+#: framework/widgets/products.php:294
+#@ ftc
+msgid "Show thumbnail"
+msgstr "Mostrar miniatura"
+
+#: framework/widgets/product_filter_by_color.php:12
+#@ ftc
+msgid "Shows list of product colors which let you filter product when viewing product categories. You have to have product attribute with slug \"color\""
+msgstr "Mostrar lista de cores do produto que permitem filtrar produto ao visualizar categorias de produtos. Você tem que ter atributo do produto com slug \"cor\""
+
+#: framework/woo_functions.php:35
+#@ ftc
+msgid "Sign up"
+msgstr "Inscrever-se"
+
+#: framework/vc_extension/vc_map.php:503
+#: framework/widgets/flickr.php:152
+#: framework/widgets/instagram.php:127
+#@ ftc
+msgid "Size"
+msgstr "Tamanho"
+
+#: framework/woo_hooks.php:485
+#@ ftc
+msgid "Sku: "
+msgstr "Código: "
+
+#: framework/widgets/social_icons.php:83
+#@ ftc
+msgid "Skype"
+msgstr "Skype"
+
+#: framework/widgets/social_icons.php:195
+#@ ftc
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: framework/widgets/product_categories.php:163
+#@ ftc
+msgid "Slug"
+msgstr "Slug"
+
+#: framework/widgets/facebook_page.php:103
+#@ ftc
+msgid "Small header"
+msgstr "Cabeçalho pequeno"
+
+#: framework/widgets/social_icons.php:149
+#@ ftc
+msgid "Social style"
+msgstr "Social estilo"
+
+#: framework/includes/class-tgm-plugin-activation.php:336
+#@ ftc
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API plugin."
+
+#: framework/includes/class-tgm-plugin-activation.php:378
+#, php-format
+#@ ftc
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Desculpe , mas você não tem a permissão correta para ativar o %1$s plugin."
+msgstr[1] "Desculpe , mas você não tem as permissões corretas para ativar os %1$s plugins."
+
+#: framework/includes/class-tgm-plugin-activation.php:348
+#, php-format
+#@ ftc
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Desculpe , mas você não tem a permissão correta para instalar o %1$s plugin."
+msgstr[1] "Desculpe , mas você não tem as permissões corretas para instalar os %1$s plugins."
+
+#: framework/includes/class-tgm-plugin-activation.php:363
+#, php-format
+#@ ftc
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Desculpe , mas você não tem a permissão correta para atualizar o %1$s plugin."
+msgstr[1] "Desculpe , mas você não tem as permissões corretas para atualizar os %1$s plugins."
+
+#: archive.php:68
+#: index.php:39
+#: page-templates/blog-template.php:67
+#@ ftc
+msgid "Sorry. There are no posts to display"
+msgstr "Desculpa. Não há posts para mostrar"
+
+#: framework/includes/class-tgm-plugin-activation.php:2442
+#@ ftc
+msgid "Source"
+msgstr "Fonte"
+
+#: dokan/products/product-edit.php:260
+#@ ftc
+msgid "Special Price"
+msgstr "Preço especial"
+
+#: framework/vc_extension/update_param.php:95
+#@ ftc
+msgid "Start Time"
+msgstr "Hora de início"
+
+#: framework/mega_menu.php:341
+#@ ftc
+msgid "Static HTML"
+msgstr "Estático HTML"
+
+#: framework/includes/class-tgm-plugin-activation.php:2448
+#@ ftc
+msgid "Status"
+msgstr "Condição"
+
+#: dokan/products/new-product-single.php:419
+#@ ftc
+msgid "Stock Status"
+msgstr "Estoque"
+
+#: framework/vc_extension/update_param.php:106
+#@ ftc
+msgid "Stop Time"
+msgstr "Pare o tempo"
+
+#: framework/vc_extension/update_param.php:156
+#: framework/vc_extension/update_param.php:200
+#: framework/vc_extension/vc_map.php:19
+#: framework/vc_extension/vc_map.php:1552
+#@ ftc
+msgid "Style"
+msgstr "Estilo"
+
+#: framework/widgets/social_icons.php:151
+#@ ftc
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: framework/widgets/social_icons.php:152
+#@ ftc
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: framework/widgets/social_icons.php:153
+#@ ftc
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: framework/vc_extension/vc_map.php:741
+#@ ftc
+msgid "Style Effect"
+msgstr "Efeito de estilo"
+
+#: framework/vc_extension/vc_map.php:1187
+#@ ftc
+msgid "Style Logo"
+msgstr "Estilo do logo"
+
+#: framework/vc_extension/vc_map.php:38
+#@ ftc
+msgid "Style icon"
+msgstr "Estilo do ícone"
+
+#: framework/vc_extension/vc_map.php:1430
+#@ ftc
+msgid "Subject"
+msgstr "Assunto"
+
+#: framework/theme_filter.php:98
+#@ ftc
+msgid "Submit"
+msgstr "Enviar"
+
+#: woocommerce/cart/mini-cart.php:82
+#@ ftc
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: framework/woo_functions.php:128
+#@ ftc
+msgid "Subtotal :"
+msgstr "Subtotal: "
+
+#: dokan/products/new-product-single.php:145
+#: dokan/products/product-edit.php:121
+#@ ftc
+msgid "Success!"
+msgstr "Sucesso!"
+
+#: framework/widgets/blogs.php:14
+#@ ftc
+msgid "FTC - Blogs"
+msgstr "FTC - Blogs"
+
+#: framework/widgets/blogs_tabs.php:14
+#@ ftc
+msgid "FTC - Blogs Tabs"
+msgstr "FTC - Guia de blog"
+
+#: framework/widgets/facebook_page.php:14
+#@ ftc
+msgid "FTC - Facebook Page"
+msgstr "FTC - Página do Facebook"
+
+#: framework/widgets/feedburner_subscription.php:15
+#@ ftc
+msgid "FTC - Feedburner Subscription"
+msgstr "FTC - Assinatura Feedburner"
+
+#: framework/widgets/flickr.php:14
+#@ ftc
+msgid "FTC - Flickr"
+msgstr "FTC - Flickr"
+
+#: framework/widgets/instagram.php:14
+#@ ftc
+msgid "FTC - Instagram"
+msgstr "FTC - Instagram"
+
+#: framework/widgets/menus.php:14
+#@ ftc
+msgid "FTC - Menus"
+msgstr "FTC - Menus"
+
+#: framework/widgets/product_categories.php:14
+#@ ftc
+msgid "FTC - Product Categories"
+msgstr "FTC - Categorias de Produtos"
+
+#: framework/widgets/product_filter_by_availability.php:13
+#@ ftc
+msgid "FTC - Product Filter By Availability"
+msgstr "FTC - Filtrar produto por disponibilidade"
+
+#: framework/widgets/product_filter_by_color.php:13
+#@ ftc
+msgid "FTC - Product Filter By Color"
+msgstr "FTC - Filtrar produto por cor"
+
+#: framework/widgets/products.php:14
+#@ ftc
+msgid "FTC - Products"
+msgstr "FTC - Produtos"
+
+#: framework/widgets/recent_comments.php:14
+#@ ftc
+msgid "FTC - Recent Comments"
+msgstr "FTC - Comentários recentes"
+
+#: framework/widgets/social_icons.php:14
+#@ ftc
+msgid "FTC - Social Icons"
+msgstr "FTC - Social ícones"
+
+#: framework/vc_extension/vc_map.php:668
+#@ ftc
+msgid "FTC Banner"
+msgstr "FTC Banner"
+
+#: framework/vc_extension/vc_map.php:190
+#@ ftc
+msgid "FTC Blogs"
+msgstr "FTC Blogs"
+
+#: framework/vc_extension/vc_map.php:413
+#@ ftc
+msgid "FTC Button"
+msgstr "FTC Botão"
+
+#: framework/vc_extension/vc_map.php:1452
+#@ ftc
+msgid "FTC Countdown"
+msgstr "FTC Contagem regressiva"
+
+#: framework/vc_extension/vc_map.php:12
+#@ ftc
+msgid "FTC Feature"
+msgstr "FTC Característica"
+
+#: framework/vc_extension/vc_map.php:1497
+#@ ftc
+msgid "FTC Feedburner Subscription"
+msgstr "FTC Feedburner Inscrição"
+
+#: framework/vc_extension/vc_map.php:1268
+#@ ftc
+msgid "FTC Google Map"
+msgstr "FTC Google Map"
+
+#: framework/vc_extension/vc_map.php:626
+#@ ftc
+msgid "FTC Heading"
+msgstr "FTC Cabeçalho"
+
+#: framework/vc_extension/vc_map.php:3563
+#@ ftc
+msgid "FTC List Of Product Categories"
+msgstr "FTC Lista de categorias de produtos"
+
+#: framework/vc_extension/vc_map.php:1161
+#@ ftc
+msgid "FTC Logos Slider"
+msgstr "FTC Logos Slider"
+
+#: framework/vc_extension/vc_map.php:1415
+#@ ftc
+msgid "FTC Milestone"
+msgstr "FTC Milestone"
+
+#: framework/vc_extension/vc_map.php:986
+#@ ftc
+msgid "FTC Portfolio"
+msgstr "FTC Portfolio"
+
+#: framework/vc_extension/vc_map.php:113
+#@ ftc
+msgid "FTC Price Table"
+msgstr "FTC Tabela de preço"
+
+#: framework/vc_extension/vc_map.php:2456
+#@ ftc
+msgid "FTC Product Categories Slider"
+msgstr "FTC Slider Categorias de Produtos"
+
+#: framework/vc_extension/vc_map.php:2221
+#@ ftc
+msgid "FTC Product Deals Slider"
+msgstr "FTC Slider Produtos em Oferta"
+
+#: framework/vc_extension/vc_map.php:1569
+#@ ftc
+msgid "FTC Products"
+msgstr "FTC Produtos"
+
+#: framework/vc_extension/vc_map.php:2581
+#@ ftc
+msgid "FTC Products In Category Tabs"
+msgstr "FTC Produtos em guia de categoria"
+
+#: framework/vc_extension/vc_map.php:2957
+#@ ftc
+msgid "FTC Products In Category Tabs 2"
+msgstr "FTC Produtos em guias de categoria 2"
+
+#: framework/vc_extension/vc_map.php:3245
+#@ ftc
+msgid "FTC Products In Sub Category Tabs"
+msgstr "FTC Produtos em guias de subcategoria "
+
+#: framework/vc_extension/vc_map.php:1805
+#@ ftc
+msgid "FTC Products Slider"
+msgstr "FTC Slider produtos"
+
+#: framework/vc_extension/vc_map.php:2066
+#@ ftc
+msgid "FTC Products Widget"
+msgstr "FTC Widget Produtos"
+
+#: framework/vc_extension/vc_map.php:552
+#@ ftc
+msgid "FTC Single Image"
+msgstr "FTC Imagem simples"
+
+#: framework/vc_extension/vc_map.php:825
+#@ ftc
+msgid "FTC Team Member"
+msgstr "FTC Membro da equipe"
+
+#: framework/vc_extension/vc_map.php:862
+#@ ftc
+msgid "FTC Testimonial"
+msgstr "FTC Depoimento"
+
+#: framework/vc_extension/vc_map.php:1315
+#@ ftc
+msgid "FTC Twitter Slider"
+msgstr "FTC Slider Twitter"
+
+#: archive.php:29
+#@ ftc
+msgid "Tag: "
+msgstr "Etiqueta: "
+
+#: framework/theme_functions.php:539
+#@ ftc
+msgid "Tagged "
+msgstr "Marcado"
+
+#: dokan/products/new-product-single.php:283
+#@ ftc
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: framework/woo_hooks.php:476
+#@ ftc
+msgid "Tags:"
+msgstr "Etiquetas: "
+
+#: single.php:148
+#@ ftc
+msgid "Tags: "
+msgstr "Etiqueta: "
+
+#: framework/vc_extension/vc_map.php:91
+#: framework/vc_extension/vc_map.php:492
+#: framework/vc_extension/vc_map.php:612
+#: framework/vc_extension/vc_map.php:784
+#: framework/vc_extension/vc_map.php:848
+#: framework/widgets/instagram.php:136
+#@ ftc
+msgid "Target"
+msgstr "Alvo"
+
+#: framework/vc_extension/vc_map.php:878
+#@ ftc
+msgid "Testimonial IDs"
+msgstr "Depoimentos IDs"
+
+#: framework/vc_extension/vc_map.php:420
+#: framework/vc_extension/vc_map.php:657
+#@ ftc
+msgid "Text"
+msgstr "Texto"
+
+#: framework/vc_extension/vc_map.php:924
+#: framework/vc_extension/vc_map.php:1349
+#: framework/vc_extension/vc_map.php:1438
+#: framework/vc_extension/vc_map.php:1483
+#@ ftc
+msgid "Text Color Style"
+msgstr "Estilo de cor do texto"
+
+#: framework/vc_extension/vc_map.php:436
+#@ ftc
+msgid "Text color"
+msgstr "Cor do texto"
+
+#: framework/vc_extension/vc_map.php:444
+#@ ftc
+msgid "Text color hover"
+msgstr "Cor do texto (hover)"
+
+#: framework/mega_menu.php:300
+#@ ftc
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "A descrição será exibida no menu se o tema atual suportar."
+
+#: woocommerce/myaccount/my-address.php:45
+#@ ftc
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Os seguintes endereços serão usados na página de verificação por padrão."
+
+#: framework/includes/class-tgm-plugin-activation.php:353
+#, php-format
+#@ ftc
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "O plugin precisa ser atualizado para sua versão mais recente para assegurar o máximo de compatibilidade com este tema: %1$s."
+msgstr[1] "Os plugins precisam ser atualizados para sua versão mais recente para assegurar o máximo de compatibilidade com este tema: %1$s."
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/includes/class-tgm-plugin-activation.php:2837
+#: framework/includes/class-tgm-plugin-activation.php:400
+#@ ftc
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin foi ativado com sucesso:"
+msgstr[1] "Os seguintes plugins foram ativados com sucesso: "
+
+#: framework/includes/class-tgm-plugin-activation.php:373
+#, php-format
+#@ ftc
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin recomendado é atualmente inativo: %1$s."
+msgstr[1] "Os seguintes plugins recomendados são atualmente inativos: %1$s."
+
+#: framework/includes/class-tgm-plugin-activation.php:368
+#, php-format
+#@ ftc
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin necessário está inativo no momento: %1$s."
+msgstr[1] "Os seguintes plugins necessários estão inativos no momento: %1$s."
+
+#: framework/includes/class-tgm-plugin-activation.php:3374
+#@ ftc
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está começando . Este processo pode demorar um pouco em alguns host , por favor seja paciente ."
+
+#: framework/includes/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ ftc
+msgid "The installation of %1$s failed."
+msgstr "A instalação de %1$s falhou."
+
+#: framework/includes/class-tgm-plugin-activation.php:3380
+#@ ftc
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação está iniciando. Este processo pode demorar um pouco em alguns host , por favor seja paciente ."
+
+#: dokan/products/new-product-single.php:145
+#@ ftc
+msgid "The product has been saved successfully."
+msgstr "O produto foi salvo com sucesso."
+
+#: dokan/products/product-edit.php:121
+#@ ftc
+msgid "The product has been updated successfully."
+msgstr "Esse produto foi atualizado com sucesso."
+
+#: framework/includes/class-tgm-plugin-activation.php:943
+#@ ftc
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote de plugin remoto consiste em mais de um arquivo , mas os arquivos não são embalados em uma pasta."
+
+#: framework/includes/class-tgm-plugin-activation.php:940
+#@ ftc
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote de plugin remoto não contém uma pasta com a slug desejado e renomeação não funcionou."
+
+#: framework/vc_extension/vc_map.php:3418
+#@ ftc
+msgid "The text of link to category page"
+msgstr "O texto do link para a página da categoria"
+
+#: framework/includes/class-tgm-plugin-activation.php:358
+#, php-format
+#@ ftc
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Há uma atualização disponível para:"
+msgstr[1] "Há uma atualização disponível para: "
+
+#: dokan/products/new-product-single.php:449
+#@ ftc
+msgid "This is a downloadable product"
+msgstr "Este é um produto para download"
+
+#: dokan/products/new-product-single.php:477
+#@ ftc
+msgid "This is the URL or absolute path to the file which customers will get access to."
+msgstr "Este é o URL ou o caminho absoluto para o arquivo do qual os clientes terão acesso."
+
+#: dokan/products/new-product-single.php:476
+#@ ftc
+msgid "This is the name of the download shown to the customer."
+msgstr "Este é o nome do descarregamento mostrada para o cliente ."
+
+#: framework/includes/class-tgm-plugin-activation.php:524
+#@ ftc
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin precisa ser atualizado para ser compatível com o seu tema."
+
+#: woocommerce/single-product/add-to-cart/variable.php:37
+#@ ftc
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este produto está fora de estoque e indisponível."
+
+#: framework/vc_extension/vc_map.php:3435
+#@ ftc
+msgid "This product will be displayed on the left side"
+msgstr "Este produto será exibida no lado esquerdo"
+
+#: framework/includes/class-tgm-plugin-activation.php:343
+#, php-format
+#@ ftc
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomenda o seguinte plugin: %1$s."
+msgstr[1] "Este tema recomenda os seguintes plugins: %1$s."
+
+#: framework/includes/class-tgm-plugin-activation.php:338
+#, php-format
+#@ ftc
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requer o seguinte plugin: %1$s."
+msgstr[1] "Este tema requer os seguintes plugins: %1$s."
+
+#: framework/woo_filter_by_color.php:68
+#: framework/woo_filter_by_color.php:135
+#@ ftc
+msgid "Thumbnail Image"
+msgstr "Miniatura de imagem"
+
+#: dokan/products/new-product-single.php:174
+#: framework/vc_extension/vc_map.php:1512
+#@ ftc
+msgid "Title"
+msgstr "Título"
+
+#: framework/mega_menu.php:274
+#@ ftc
+msgid "Title Attribute"
+msgstr "Atributo do Título"
+
+#: framework/vc_extension/vc_map.php:120
+#@ ftc
+msgid "Title Table"
+msgstr "Título da tabela"
+
+#: framework/widgets/product_filter_by_availability.php:147
+#: framework/widgets/product_filter_by_color.php:174
+#@ ftc
+msgid "Title:"
+msgstr "Título: "
+
+#: dokan/products/new-product-single.php:220
+#: dokan/products/product-edit.php:278
+#@ ftc
+msgid "To"
+msgstr "Até"
+
+#: framework/includes/class-tgm-plugin-activation.php:2294
+#, php-format
+#@ ftc
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para ativar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para ativar <span class=\"count\">(%s)</span>"
+
+#: framework/includes/class-tgm-plugin-activation.php:2288
+#, php-format
+#@ ftc
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#: framework/woo_term.php:103
+#: framework/woo_term.php:231
+#@ ftc
+msgid "Top border color"
+msgstr "Cor da borda superior"
+
+#: framework/widgets/products.php:258
+#@ ftc
+msgid "Top rated"
+msgstr "Melhor avaliado"
+
+#: woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:103
+#@ ftc
+msgid "Total"
+msgstr "Total"
+
+#: framework/widgets/social_icons.php:62
+#@ ftc
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/widgets/social_icons.php:166
+#@ ftc
+msgid "Twitter ID"
+msgstr "Twitter ID"
+
+#: framework/includes/class-tgm-plugin-activation.php:2443
+#@ ftc
+msgid "Type"
+msgstr "Tipo"
+
+#: framework/mega_menu.php:261
+#@ ftc
+msgid "URL"
+msgstr "URL"
+
+#: framework/widgets/instagram.php:158
+#@ ftc
+msgid "Unable to communicate with Instagram."
+msgstr "Não é possível comunicar com o Instagram."
+
+#: framework/includes/class-tgm-plugin-activation.php:2614
+#@ ftc
+msgid "Update"
+msgstr "Atualizar"
+
+#: framework/includes/class-tgm-plugin-activation.php:2291
+#, php-format
+#@ ftc
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualização disponível <span class=\"count\">(%s)</span>"
+
+#: woocommerce/cart/cart.php:134
+#@ ftc
+msgid "Update Cart"
+msgstr "Atualizar carrinho"
+
+#: framework/includes/class-tgm-plugin-activation.php:525
+#@ ftc
+msgid "Update Required"
+msgstr "atualização necessária"
+
+#: framework/includes/class-tgm-plugin-activation.php:2232
+#@ ftc
+msgid "Update recommended"
+msgstr "Atualização Recomendada"
+
+#: framework/includes/class-tgm-plugin-activation.php:3367
+#, php-format
+#@ ftc
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando Plugin %1$s (%2$d/%3$d)"
+
+#: framework/includes/class-tgm-plugin-activation.php:2575
+#@ ftc
+msgid "Upgrade message from the plugin author:"
+msgstr "Atualização mensagem do autor plugin: "
+
+#: dokan/products/new-product-single.php:328
+#: dokan/products/product-edit.php:218
+#@ ftc
+msgid "Upload a product cover image"
+msgstr "Fazer upload de uma imagem da capa do produto"
+
+#: framework/woo_term.php:38
+#: framework/woo_term.php:84
+#: framework/woo_term.php:97
+#: framework/woo_term.php:141
+#: framework/woo_term.php:202
+#: framework/woo_term.php:224
+#@ ftc
+msgid "Upload/Add image"
+msgstr "Upload/Add Imagem"
+
+#: framework/vc_extension/vc_map.php:34
+#@ ftc
+msgid "Use FontAwesome. Ex: fa-home"
+msgstr "Use FontAwesome. Ex: fa-home"
+
+#: framework/woo_filter_by_color.php:63
+#: framework/woo_filter_by_color.php:131
+#@ ftc
+msgid "Use color picker to pick one color."
+msgstr "Use seletor de cores para escolher uma cor."
+
+#: framework/woo_filter_by_color.php:99
+#: framework/woo_filter_by_color.php:165
+#@ ftc
+msgid "Use image"
+msgstr "Usar imagem"
+
+#: framework/vc_extension/vc_map.php:1322
+#: framework/widgets/instagram.php:111
+#: framework/woo_functions.php:47
+#@ ftc
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: dokan/products/product-edit.php:175
+#@ ftc
+msgid "Variations"
+msgstr "Variações"
+
+#: framework/includes/class-tgm-plugin-activation.php:2447
+#@ ftc
+msgid "Version"
+msgstr "Versão"
+
+#: framework/theme_functions.php:62
+#@ ftc
+msgid "Vertical Navigation"
+msgstr "Navegação Vertical"
+
+#: framework/widgets/social_icons.php:80
+#@ ftc
+msgid "Viber"
+msgstr "Viber"
+
+#: framework/widgets/social_icons.php:191
+#@ ftc
+msgid "Viber Number"
+msgstr "Viber ID"
+
+#: woocommerce/cart/mini-cart.php:87
+#@ ftc
+msgid "View Cart"
+msgstr "Ver carrinho"
+
+#: dokan/products/new-product-single.php:117
+#: dokan/products/product-edit.php:104
+#@ ftc
+msgid "View Product"
+msgstr "Ver produto"
+
+#: dokan/products/new-product-single.php:148
+#: dokan/products/product-edit.php:124
+#@ ftc
+msgid "View Product &rarr;"
+msgstr "Ver Produto &rarr;"
+
+#: framework/theme_functions.php:1060
+#, php-format
+#@ ftc
+msgid "View all %d results"
+msgstr "Ver todos %d resultados"
+
+#: framework/woo_functions.php:130
+#@ ftc
+msgid "View cart"
+msgstr "Ver carrinho"
+
+#: framework/woo_functions.php:86
+#@ ftc
+msgid "View your shopping bag"
+msgstr "Ver o que está comprando"
+
+#: framework/widgets/social_icons.php:71
+#@ ftc
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: framework/widgets/social_icons.php:178
+#@ ftc
+msgid "Vimeo ID"
+msgstr "Vimeo ID"
+
+#: dokan/products/new-product-single.php:546
+#@ ftc
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: framework/widgets/social_icons.php:71
+#: framework/widgets/social_icons.php:77
+#@ ftc
+msgid "Watch Us"
+msgstr "Veja-nos"
+
+#: framework/vc_extension/update_param.php:75
+#@ ftc
+msgid "WebM / Ogg Video URL"
+msgstr "WebM / Ogg Video URL"
+
+#: framework/theme_filter.php:80
+#@ ftc
+msgid "Website"
+msgstr "Site"
+
+#: framework/woo_functions.php:175
+#: framework/woo_functions.php:176
+#: framework/woo_hooks.php:636
+#: framework/woo_hooks.php:640
+#: framework/woo_hooks.php:644
+#@ ftc
+msgid "Wishlist"
+msgstr "Lista de desejo"
+
+#: framework/includes/class-tgm-plugin-activation.php:2191
+#@ ftc
+msgid "WordPress Repository"
+msgstr "WordPress Repositório"
+
+#: woocommerce/single-product/rating.php:41
+#@ ftc
+msgid "Write your comment"
+msgstr "Escreva o seu comentário"
+
+#: framework/vc_extension/vc_map.php:1475
+#@ ftc
+msgid "Year"
+msgstr "Ano"
+
+#: archive.php:23
+#@ ftc
+msgid "Year: "
+msgstr "Ano: "
+
+#: searchform.php:10
+#@ ftc
+msgid "You can back to homepage or seach anything"
+msgstr "Você pode voltar para a página inicial ou utilizar a barra de pesquisa"
+
+#: woocommerce/myaccount/my-address.php:73
+#@ ftc
+msgid "You have not set up this type of address yet."
+msgstr "Você não tem que configurar esse tipo de endereço ainda."
+
+#: framework/vc_extension/vc_map.php:3406
+#@ ftc
+msgid "You have to choose at least one category. Each tab will be a sub category of this category"
+msgstr "Você tem que escolher pelo menos uma categoria . Cada guia será uma sub-categoria desta categoria"
+
+#: framework/theme_filter.php:89
+#, php-format
+#@ ftc
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Você deve estar  <a href=\"%s\">logado</a> para comentar."
+
+#: woocommerce/checkout/form-checkout.php:26
+#@ ftc
+msgid "You must be logged in to checkout."
+msgstr "Você precisa estar logado para finalizar."
+
+#: framework/vc_extension/vc_map.php:3052
+#@ ftc
+msgid "You select banners, icons in the Product Category editor"
+msgstr "Você seleciona banners , ícones do editor de categoria de produto"
+
+#: framework/theme_filter.php:78
+#@ ftc
+msgid "Your Name <span class=\"required\">*</span>"
+msgstr "Seu nome <span class=\"required\">*</span>"
+
+#: framework/theme_filter.php:15
+#@ ftc
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário aguarda moderação."
+
+#: framework/theme_filter.php:88
+#@ ftc
+msgid "Your message"
+msgstr "Sua mensagem"
+
+#: woocommerce/checkout/form-checkout.php:57
+#@ ftc
+msgid "Your order"
+msgstr "Sua compra"
+
+#: framework/woo_functions.php:95
+#@ ftc
+msgid "Your shopping cart is empty"
+msgstr "Seu carrinho de compras está vazio"
+
+#: framework/widgets/social_icons.php:77
+#@ ftc
+msgid "Youtube"
+msgstr "Youtube"
+
+#: framework/widgets/social_icons.php:187
+#@ ftc
+msgid "Youtube ID"
+msgstr "Youtube ID"
+
+#: framework/vc_extension/update_param.php:55
+#@ ftc
+msgid "Youtube Video URL"
+msgstr "Youtube Video URL"
+
+#: framework/vc_extension/vc_map.php:1291
+#@ ftc
+msgid "Zoom"
+msgstr "Zoom"
+
+#: woocommerce/single-product/rating.php:32
+#, php-format
+#@ ftc
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "baseado em %s avaliação de cliente"
+msgstr[1] "baseado em %s avaliações de clientes"
+
+#: dokan/products/new-product-single.php:497
+#@ ftc
+msgid "e.g. 4"
+msgstr "e.g. 4"
+
+#: woocommerce/single-product/rating.php:31
+#, php-format
+#@ ftc
+msgid "out of %s5%s"
+msgstr "Até %s5%s"
+
+#: framework/includes/class-tgm-plugin-activation.php:1121
+#: framework/includes/class-tgm-plugin-activation.php:2833
+#@ ftc
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: framework/includes/class-tgm-plugin-activation.php:2285
+#, php-format
+#@ ftc
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#: archive.php:20
+#@ ftc
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:23
+#@ ftc
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: dokan/products/new-product-single.php:476
+#: framework/widgets/product_categories.php:162
+#@ ftc
+msgid "Name"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2376
+#@ ftc
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/theme_filter.php:19
+#: framework/theme_filter.php:45
+#@ ftc
+msgid "(Edit)"
+msgstr ""
+
+#: framework/theme_filter.php:45
+#@ ftc
+msgid "Pingback:"
+msgstr ""
+
+#: framework/vc_extension/vc_map.php:1610
+#: framework/vc_extension/vc_map.php:1846
+#: framework/vc_extension/vc_map.php:2655
+#: framework/vc_extension/vc_map.php:2979
+#: framework/vc_extension/vc_map.php:3338
+#@ ftc
+msgid "Custom order"
+msgstr ""
+
+#: framework/vc_extension/vc_map.php:1617
+#: framework/vc_extension/vc_map.php:1853
+#: framework/vc_extension/vc_map.php:2662
+#: framework/vc_extension/vc_map.php:2986
+#: framework/vc_extension/vc_map.php:3345
+#@ ftc
+msgid "If you enable this option, the Product type option wont be available"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57
+#@ ftc
+msgid "Product"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:25
+#@ ftc
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
